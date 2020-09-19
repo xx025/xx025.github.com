@@ -1,0 +1,13 @@
+title: xx052
+email: xx052@xx052.com
+author: xx052
+description: >- # this means to ignore newlines until "baseurl:"
+  我等了你四个夏天，你没有信守承诺，你再也没有回来。风筝死了，我将它埋葬在这里，谁知道呢，也许有一天你会找到它。
+baseurl: "" 
+url: ""
+github_username:  xx025
+weibo_username: xx052
+weibo_username_id: '88888888' 
+theme: minima
+plugins:
+  - jekyll-feed
