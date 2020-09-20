@@ -24,7 +24,6 @@
         <!-- 
           {%- if my_page.title.size -%}
           添加了.size>0，不知道问什么总多出一个空项，这样做就排除空项了
-          bundle exec jekyll serve --trace
          -->
         <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
         {%- endif -%}
