@@ -1,5 +1,5 @@
 ---
-title: xx025
+title: "xx025"
 layout: home
 ---
 
