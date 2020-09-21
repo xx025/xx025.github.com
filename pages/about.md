@@ -36,10 +36,7 @@ Welcome to GitHub!
     $header-background-color:#0e3754;
     $site-title-color:#fdfdfd;
     $site-nav-page-link-color:#fdfdfd;
-    $svg-icon-color:#fdfdfd;
-    $site-footer-background-color:#0e3754;
-    $site-footer-heading:#fdfdfd;
-    $footer-col-wrapper-color:#ffffff;
+    ...
     ```
 4. 移除了一些社交连接，添加了微博图标
     ```
@@ -47,4 +44,10 @@ Welcome to GitHub!
 
     <a href="https://www.weibo.com/ site.weibo_username_id| ...                
 
+    ```
+5. 创建新的页面并对标题做调整
+    ```
+        if  post.title contains '读书笔记' 
+               post.title| remove: "读书笔记" | escape
+        ...
     ```
