@@ -51,3 +51,5 @@ Welcome to GitHub!
                post.title| remove: "读书笔记" | escape
         ...
     ```
+6. 为站点添加图标
+    这个就将名为favicon.ico文件放在根目录下就行
