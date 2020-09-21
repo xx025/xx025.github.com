@@ -21,15 +21,13 @@
         {%- for path in page_paths -%}
         {%- assign my_page = site.pages | where: "path", path | first -%}
         {%- if my_page.title.size>0 -%}
-        <!-- 
-          {%- if my_page.title.size -%}
-          添加了.size>0，不知道问什么总多出一个空项，这样做就排除空项了
-         -->
+        <!-- <div >{{my_page.path}} </div> -->
         <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
         {%- endif -%}
-        {%- endif -%}
         {%- endfor -%}
-
+        <!-- 
+           添加了.size>0，有一些问题，总多出空项，这样做就排除空项了
+        -->
       </div>
       {%- endif -%}
   </div>
