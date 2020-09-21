@@ -44,7 +44,7 @@
     // color: $text-color;
 
     /* 自定义 */
-    color:$site-nav-page-link-color;
+    color: $site-nav-page-link-color;
 
     line-height: $base-line-height;
 
@@ -120,11 +120,13 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+  background-color: $site-footer-background-color;
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
+  color: $site-footer-heading;
 }
 
 .contact-list,
@@ -135,7 +137,9 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  // color: $grey-color;
+  /* 自定义 */
+  color: $footer-col-wrapper-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
