@@ -3,5 +3,34 @@ layout: default
 ---
 
 <div class="home">
-  <center> {{ content }}</center>
+    <div style="background-color: #e6efef;border-radius:15px 0;text-align:center;height: 110%;">
+      <div>
+        {{ content }}
+      </div>
+    </div>
+</div>
+<div class="home">
+  {%- if site.posts.size > 0 -%}
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <div style=" background-color: #e6efef;border-radius:15px 0;">
+      <div style=" margin-left:3%;text-align:center">
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title| escape }}
+            </a>
+          </h3>
+          {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+      </div>
+    </div>
+
+    {%- endfor -%}
+  </ul>
+  {%- endif -%}
 </div>
