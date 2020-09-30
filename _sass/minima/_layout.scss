@@ -236,6 +236,13 @@
   list-style: none;
 
   >li {
+    // 自定义
+
+    background-color: #e6efef;
+    border-radius: 15px 15px 15px 15px;
+    // margin-left: 3%;
+    text-align: center;
+    /* =============== */
     margin-bottom: $spacing-unit;
   }
 }
