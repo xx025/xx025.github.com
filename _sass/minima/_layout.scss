@@ -237,10 +237,9 @@
 
   >li {
     // 自定义
-    box-shadow: 10px 10px 5px #888888;
+    box-shadow: 5px 5px 5px #888888;
     background-color: #e6efef;
     border-radius: 15px 15px 15px 15px;
-    text-align: center;
     /* =============== */
     margin-bottom: $spacing-unit;
   }
@@ -252,6 +251,11 @@
 }
 
 .post-link {
+  /* 自定义 */
+  text-align: center;
+  position: relative;
+  left: 15px;
+  /* 自定义 */
   display: block;
   @include relative-font-size(1.5);
 }
