@@ -1,8 +1,10 @@
 ---
 layout: page
 title: "关于"
-permalink: /about/
+permalink: /about
 ---  
+
+
 
 Welcome to GitHub!
 
@@ -53,3 +55,8 @@ Welcome to GitHub!
     ```
 6. 为站点添加图标
     这个就将名为favicon.ico文件放在根目录下就行
+7. 调整为文章列表显示样式，配置显示文章摘要
+8. 调整文章链接采用xx.xx/xxx.html样式
+
+
+本站源码见页脚(章鱼猫)github个人主页xx025.github.com库
