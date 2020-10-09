@@ -1,0 +1,65 @@
+```python
+def sort(dic):
+    # return list[]
+    return sorted(dic.items(), key=lambda x: x[1], reverse=True)
+
+
+def fun2():
+    dic = {'曹操': 0, '孟德': 0, \
+           '诸葛亮': 0, '孔明': 0, \
+           '刘备': 0, '玄德': 0, \
+           '孙权': 0, '仲谋': 0, \
+           '司马懿': 0, '仲达': 0, \
+           '周瑜': 0, '公瑾': 0, \
+           '关羽': 0, '云长': 0, \
+           '张飞': 0, '翼德': 0}
+
+    fo = open("三国演义.txt", encoding='UTF-8')
+    return fo, dic
+
+
+def countname(fo_, dic_):
+    for i in fo_:
+        for key, value in dic_.items():
+            dic_[key] += str(i).count(key)
+    return dic_
+
+
+if __name__ == '__main__':
+    fo, dic = fun2()
+    lis = sort(countname(fo, dic))
+    for i in lis:
+        print("{:<8}\t{}".format(i[0], i[1]))
+
+
+def fun1():
+    fo, dic = fun2()
+    lis = sort(countname(fo, dic))
+    return lis
+```
+
+```python
+f1 = __import__("1-统计人名")
+
+lis = f1.fun1()
+fw = open("demoResult.txt", 'w', encoding='UTF-8')
+for i in lis:
+    fw.write(("{:<8}\t{}\n".format(i[0], i[1])))
+'''
+模块含有特殊字符，参考：https://www.it1352.com/902338.html
+'''
+
+```
+
+```python
+def rhanzi(i_, lis=[]):
+
+    dic = {"0": "零", "1": "壹", "2": "贰", "3": "叁", \
+           "4": "肆", "5": "伍", "6": "陆", "7": "柒", \
+           "8": "捌", "9": "玖", "-": "负"}
+    return [dic[i] for i in str(i_)]
+
+
+if __name__ == '__main__':
+    print("\n"+"".join(tuple(rhanzi(int(input("输入一个整数："))))))
+```
