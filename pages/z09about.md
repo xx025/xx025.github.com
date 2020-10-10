@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "关于"
+title: "碎言一点"
 permalink: /about/
 ---  
 Welcome to GitHub!
@@ -56,4 +56,4 @@ Welcome to GitHub!
 8. 调整文章链接采用xx.xx/xxx.html样式
 
 
--本站源码见页脚(章鱼猫)github个人主页xx025.github.com库
+9. 本站源码见页脚(章鱼猫)github个人主页[xx025.github.com](xx025.github.com)库
