@@ -15,3 +15,9 @@ plugins:
 # 自定义
 permalink: /:title:output_ext
 show_excerpts: True
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
