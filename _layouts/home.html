@@ -12,7 +12,9 @@ layout: default
 
     {{ content }}
 
+
     {%- for post in site.posts -%}
+    {% unless  post.title contains '碎言一点'%}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -25,7 +27,9 @@ layout: default
       {{ post.excerpt }}
       {%- endif -%}
     </li>
+    {% endunless %}
     {%- endfor -%}
+
   </ul>
   {%- endif -%}
 </div>

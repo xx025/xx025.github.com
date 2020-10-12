@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "碎言一点"
+title: "关于站点"
 permalink: /about/
 ---  
 Welcome to GitHub!
