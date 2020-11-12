@@ -13,7 +13,7 @@ layout: default
     {{ content }}
 
 
-    {%- for post in site.posts -%}
+    {%- for post in site.posts.talkabit -%}
     {% unless  post.title contains '碎言一点'%}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
