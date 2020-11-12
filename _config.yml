@@ -11,8 +11,6 @@ weibo_username_id: 'rmrb'
 theme: minima
 plugins:
   - jekyll-feed
-
-# 自定义
 permalink: /:title:output_ext
 show_excerpts: True
 
