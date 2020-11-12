@@ -5,8 +5,6 @@ permalink: /about/
 ---  
 Welcome to GitHub!
 
-![w7lr1x.png](..\pages\w7lr1x.png)
-
 <!--  bundle exec jekyll serve -->
 
 ---
@@ -20,13 +18,8 @@ Welcome to GitHub!
 
 我对最初生成的模板进行了一些简单的改动，部分改动标记如下
 
-1. 将分页栏局限在pages文件夹
-    ```
-    if path contains 'pages' 
-        <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-    endif 
-    ```
-2. 简单调整底部布局
+
+1. 简单调整底部布局
     ```
     @include media-query($on-laptop)
     {
