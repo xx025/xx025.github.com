@@ -10,18 +10,16 @@
   <main class="page-content" aria-label="Content">
     <div class="wrapper">
       {{ content }}
-
       <article class="post">
         <header class="post-header">
           <h1 class="post-title">{{ page.title | escape }}</h1>
         </header>
       </article>
       <!-- =========================== -->
-      {%- if site.posts.size > 0 -%}
+      {%- if site.categories.talkabit.size > 0 -%}
       <ul class="post-list">
-        {%- for post in site.posts -%}
+        {%- for post in site.categories.talkabit -%}
         <li>
-          {% if  post.title contains '碎言一点' %}
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <span class="post-meta">{{ post.date | date: date_format }}</span>
           <h3>
@@ -31,7 +29,6 @@
             </a>
           </h3>
         </li>
-        {% endif %}
         {%- endfor -%}
       </ul>
       {% endif %}
