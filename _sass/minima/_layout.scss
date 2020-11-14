@@ -58,10 +58,7 @@
     position: absolute;
     top: 9px;
     right: $spacing-unit / 2;
-    // background-color: $background-color;
-    /* 自定义 */
     background-color: #f3f2f2ad;
-    /* 自定义 */
     border: 1px solid #6f666661;
     border-radius: 5px;
     text-align: right;
@@ -71,7 +68,7 @@
       float: right;
       width: 36px;
       height: 36px;
-      z-index: 2;
+      z-index: auto;
       cursor: pointer;
     }
 
