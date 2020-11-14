@@ -68,7 +68,7 @@
       float: right;
       width: 36px;
       height: 36px;
-      z-index: auto;
+      z-index: 9;
       cursor: pointer;
     }
 
@@ -234,11 +234,8 @@
   list-style: none;
 
   >li {
-    // 自定义
     box-shadow: 5px 5px 5px #e2e2e2;
     background-color: #57336b08;
-    // border-radius: 15px 15px 15px 15px;
-    /* =============== */
     margin-bottom: $spacing-unit;
   }
 }
@@ -249,10 +246,8 @@
 }
 
 .post-link {
-  /* 自定义 */
   text-align: center;
   position: relative;
-  /* 自定义 */
   display: block;
   @include relative-font-size(1.5);
 }
