@@ -51,5 +51,7 @@ Welcome to GitHub!
 
 9. 调整文章目录结构
 
+10. 将配色调成白、黑和灰
+
 
 9. 本站源码见页脚(章鱼猫)github个人主页[xx025.github.com](xx025.github.com)库
