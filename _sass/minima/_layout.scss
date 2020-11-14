@@ -140,7 +140,7 @@
   @include relative-font-size(0.9375);
   // color: $grey-color;
   /* 自定义 */
-  color: $footer-col-wrapper-color;
+  color: $site-nav-page-link-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -238,8 +238,8 @@
 
   >li {
     // 自定义
-    box-shadow: 5px 5px 5px #888888;
-    background-color: #e6efef;
+    box-shadow: 5px 5px 5px #e2e2e2;
+    background-color: #57336b08;
     // border-radius: 15px 15px 15px 15px;
     /* =============== */
     margin-bottom: $spacing-unit;
