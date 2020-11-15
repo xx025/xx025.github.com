@@ -4,7 +4,7 @@
 
 /* 自定义 */
 $zdy-defcol:#57336b08;
-$header-background-color:#57336b08;
+$header-background-color:#f8f7f8;
 $site-title-color:#292626;
 $site-nav-page-link-color:#292626;
 $svg-icon-color:#776e6e;
@@ -13,29 +13,38 @@ $site-footer-heading:#776e6e;
 $footer-col-wrapper-color:#ffffff;
 /* 自定义 */
 
-$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$base-font-size:   16px !default;
+$base-font-family: -apple-system,
+BlinkMacSystemFont,
+"Segoe UI",
+Roboto,
+Helvetica,
+Arial,
+sans-serif,
+"Apple Color Emoji",
+"Segoe UI Emoji",
+"Segoe UI Symbol" !default;
+$base-font-size: 16px !default;
 $base-font-weight: 400 !default;
-$small-font-size:  $base-font-size * 0.875 !default;
+$small-font-size: $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
-$spacing-unit:     20px !default;
+$spacing-unit: 20px !default;
 
-$text-color:       #111 !default;
+$text-color: #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
+$brand-color: #2a7ae2 !default;
 
-$grey-color:       #828282 !default;
+$grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$grey-color-dark: darken($grey-color, 25%) !default;
 
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    900px !default;
-$on-wpalm:         350px !default;
-$on-palm:          450px !default;
-$on-laptop:        550px !default;
+$content-width: 900px !default;
+$on-wpalm: 350px !default;
+$on-palm: 450px !default;
+$on-laptop: 550px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -55,8 +64,7 @@ $on-laptop:        550px !default;
 }
 
 // Import partials.
-@import
-  "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
+@import "minima/base",
+"minima/layout",
+"minima/syntax-highlighting"
 ;

@@ -5,12 +5,12 @@
   border-top: 5px solid $background-color;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
-
-  /* 自定义 */
   background-color: $header-background-color;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  top: 0;
+  position: sticky;
+  z-index: 8;
 }
 
 .site-title {
@@ -116,7 +116,7 @@
  * Site footer
  */
 .site-footer {
-  
+
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
   background-color: $site-footer-background-color;
