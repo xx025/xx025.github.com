@@ -9,6 +9,8 @@ layout: default
 <div class="home">
   {{ content }}
   {%- if site.categories.readingmark.size > 0 -%}
+  <!--  {% increment showfulltext %} -->
+  <!-- 定义一个变量用于显示第一篇文章的全文-->
   <ul class="post-list">
     {%- for post in site.categories.readingmark -%}
     <li>
@@ -19,10 +21,18 @@ layout: default
           {{ post.title| escape }}
         </a>
       </h3>
+      {% if showfulltext < 2 %}
+      {{post.content}}
+      {% endif %}
+
+      {% if showfulltext >= 2 %}
       {%- if site.show_excerpts -%}
       {{ post.excerpt }}
       {%- endif -%}
+      {% endif %}
     </li>
+    <!-- {% increment showfulltext %} -->
+    <!-- 变量自增1 -->
     {%- endfor -%}
   </ul>
   {%- endif -%}

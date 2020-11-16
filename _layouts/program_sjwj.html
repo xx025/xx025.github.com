@@ -9,6 +9,8 @@ layout: default
 <div class="home">
   {{ content }}
   {%- if site.categories.datamining.size > 0 -%}
+  <!--  {% increment showfulltext3 %} -->
+  <!-- 定义一个变量用于显示第一篇文章的全文-->
   <ul class="post-list">
     {%- for post in site.categories.datamining -%}
     <li>
@@ -19,10 +21,18 @@ layout: default
           {{ post.title| escape }}
         </a>
       </h3>
+      {% if showfulltext3 < 2 %}
+      {{post.content}}
+      {% endif %}
+
+      {% if showfulltext3 >= 2 %}
       {%- if site.show_excerpts -%}
       {{ post.excerpt }}
       {%- endif -%}
+      {% endif %}
     </li>
+    <!-- {% increment showfulltext3 %} -->
+    <!-- 变量自增1 -->
     {%- endfor -%}
   </ul>
   {%- endif -%}
