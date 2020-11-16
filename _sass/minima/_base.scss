@@ -289,49 +289,9 @@ table {
   }
 }
 
-/* 自定义 */
-
-
-
-
-
 li {
-
-  >h3 {
-    /*     text-align: center; */
-    position: relative;
-    margin-left: 5%;
-    margin-right: 5%;
-  }
-
-  >ul {
-    position: relative;
-    margin-left: 5%;
-    margin-right: 5%;
-  }
-
-  >ol {
-    position: relative;
-    margin-left: 5%;
-    margin-right: 5%;
-
-  }
-
-  >p {
-    position: relative;
-    margin-left: 5%;
-    margin-right: 5%;
-  }
-
-  >h2 {
-    position: relative;
-    margin-left: 5%;
-    margin-right: 5%;
-  }
-
-  > {
-    position: relative;
-    margin-left: 5%;
-    margin-right: 5%;
-  }
+  padding-top: 2px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
 }
