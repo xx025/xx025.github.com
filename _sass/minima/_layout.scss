@@ -23,7 +23,6 @@
 
   &,
   &:visited {
-    /* 自定义 */
     color: $site-title-color;
   }
 }
@@ -238,7 +237,6 @@
     box-shadow: 5px 5px 5px #e2e2e2;
     background-color: #57336b08;
     margin-bottom: $spacing-unit;
-    padding-bottom: 1px;
   }
 }
 
