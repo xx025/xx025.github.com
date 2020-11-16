@@ -53,5 +53,6 @@ Welcome to GitHub!
 
 10. 将配色调成白、黑和灰
 
+11. 首篇文章显示全文
 
 9. 本站源码见页脚(章鱼猫)github个人主页 [github.com/xx025](https://github.com/xx025)库
