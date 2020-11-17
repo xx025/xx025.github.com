@@ -1,13 +1,14 @@
 title: Onebit
+titleico: <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#onebit"></use></svg>
 email: mail@loefairy.top
 author: 💂‍♂️XX025
 description: >- # this means to ignore newlines until "baseurl:"
   你才是那个穿越熊熊大火冲出这里的人《当你像鸟飞往你的山》
-baseurl: "" 
+baseurl: ""
 url: ""
 github_username: xx025
 weibo_username: xx052
-weibo_username_id: 'rmrb' 
+weibo_username_id: "rmrb"
 theme: minima
 plugins:
   - jekyll-feed
