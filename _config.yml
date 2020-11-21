@@ -12,7 +12,7 @@ weibo_username_id: "rmrb"
 theme: minima
 plugins:
   - jekyll-feed
-permalink: /:title:output_ext
+permalink: /:categories:short_year:i_month:i_day
 show_excerpts: True
 
 defaults:
