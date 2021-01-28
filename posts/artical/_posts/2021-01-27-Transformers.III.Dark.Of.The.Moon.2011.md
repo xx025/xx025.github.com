@@ -36,18 +36,18 @@
 `We have impact confirmed.`  
 联系政府方面  
 `Contacted.`  
-- 格林威治时间22点50分  
-- 什么?  
-`- 22:50 GMT.  
-- What?`  
+`格林威治时间22点50分  `
+`什么?  `
+``22:50 GMT.  `
+`What?`  `
 给我接通安全发展部的电话  
 `Give me SEC-DEV on the phone right away.`  
 麦克纳马拉先生 总统先生在等你  
 `Mr. McNamara, the President is expecting you.`  
-- 把鲍比叫过来  
-- 总统先生  
-`- Get Bobby in here.  
-- Mr. President.`  
+`把鲍比叫过来  `
+`总统先生  `
+``Get Bobby in here.  `
+`Mr. President.`  `
 请求指示 高度机密  
 `Definition, top secret.`  
 我们刚刚检测到一个不明飞行物体撞击了月球  
@@ -68,10 +68,10 @@
 `I believe that this nation should commit itself,`  
 在这个年代末  
 `to achieving the goal.`  
-- 倒数十五秒  
-- 完成登月的目标  
-`- Fifteen seconds.  
-- Before this decade is out,`  
+`倒数十五秒  `
+`完成登月的目标  `
+``Fifteen seconds.  `
+`Before this decade is out,`  `
 把一位宇航员送到月球  
 `of landing a man on the moon,`  
 并且再安全地把他带回地球  
@@ -130,10 +130,10 @@
 `That's one small step for man,`  
 却是人类的一大步  
 `one giant leap for mankind.`  
-- 一切顺利吗?  
-- 是的  
-`- Are we good?  
-- Yes sir.`  
+`一切顺利吗?  `
+`是的  `
+``Are we good?  `
+`Yes sir.`  `
 转到1092非正式频道...  
 `An official time on the first step 1092...`  
 我们这边有些信号干扰  
@@ -236,10 +236,10 @@
 `Today's important.`  
 来 快起来  
 `Come on, get up.`  
-- 戴上那条帅领带  
-- 好  
-`- Hey, wear that nice tie.  
-- Yeah.`  
+`戴上那条帅领带  `
+`好  `
+``Hey, wear that nice tie.  `
+`Yeah.`  `
 需要给你午饭钱吗?  
 `You need any money for lunch?`  
 不 不用你给我午饭钱  
@@ -280,14 +280,14 @@
 `Mr. Ambassador, here.`  
 下一个是你们英国大使馆  
 `British Embassy you're up next.`  
-- 这其实不那么...  
-- 不 你不能戴着  
-`- It's not really...  
-- No, you don't wear it.`  
-- 即便我想也不能  
-- 收起来  
-`- I couldn't even if I wanted to.  
-- Leave it there.`  
+`这其实不那么...  `
+`不 你不能戴着  `
+``It's not really...  `
+`No, you don't wear it.`  `
+`即便我想也不能  `
+`收起来  `
+``I couldn't even if I wanted to.  `
+`Leave it there.`  `
 收到箱子里 好吧  
 `Leave it in the box, right.`  
 你把它放在这里 多好看的箱子啊  
@@ -298,10 +298,10 @@
 `You know who gave that to me?`  
 谁?  
 `Who?`  
-- 美国总统  
-- 哦  
-`- POTUS.  
-- Oh.`  
+`美国总统  `
+`哦  `
+``POTUS.  `
+`Oh.`  `
 美利坚合众国总统  
 `The President of the United States.`  
 其实大家找工作都挺难的  
@@ -322,10 +322,10 @@
 `Romance me with a nice dinner and, uh...`  
 或者把那东西赶走  
 `maybe you'll get that bonus.`  
-- 真好看  
-- 给我出去  
-`- Good looking.  
-- Get out of here.`  
+`真好看  `
+`给我出去  `
+``Good looking.  `
+`Get out of here.`  `
 等等 别 别 别 别 别  
 `Wait, no, no, no, no, no.`  
 哦 他好粗鲁啊  
@@ -340,10 +340,10 @@
 `Yesterday that one was in my underwear drawer.`  
 好借口 从下面看身材也不错哦  
 `Good reason, it looked real good too.`  
-- 你打谁呢?  
-- 我只想要个平凡的男友  
-`- What are you hitting, huh?  
-- I want a normal boyfriend.`  
+`你打谁呢?  `
+`我只想要个平凡的男友  `
+``What are you hitting, huh?  `
+`I want a normal boyfriend.`  `
 这正是你爱我的原因 不是吗?  
 `That's what you love about me, isn't it?`  
 呵 这小抱怨鬼  
@@ -362,10 +362,10 @@
 `Make us live in a box on a balcony.`  
 还和一个畜生为邻  
 `Right next to a beast.`  
-- 正常一点  
-- 别说 好吧  
-`- Like a common animal.  
-- Stop, okay.`  
+`正常一点  `
+`别说 好吧  `
+``Like a common animal.  `
+`Stop, okay.`  `
 你和你那怪异的朋友  
 `You and your creepy psychic,`  
 没有许可 不得进来  
@@ -402,54 +402,54 @@
 `All right, we're an advanced genius alien race,`  
 只不过没地方住罢了  
 `just looking for a home.`  
-- 我们可以直接停在这  
-- 我觉得我们不应该停  
-`- We could leave it right here.  
-- Didn't think we should stop.`  
+`我们可以直接停在这  `
+`我觉得我们不应该停  `
+``We could leave it right here.  `
+`Didn't think we should stop.`  `
 得了 他们能怎么办 拖走?  
 `Come on, what are they going to do, tow it?`  
 儿子在哪?  
 `Where is he?`  
 萨米!  
 `Sammy!`  
-- 哦 别这样 这可不好笑 哈哈  
-- 嗨萨姆  
-`- Oh, come on that's funny, ha, ha.  
-- Sam.`  
+`哦 别这样 这可不好笑 哈哈  `
+`嗨萨姆  `
+``Oh, come on that's funny, ha, ha.  `
+`Sam.`  `
 我很想念你们  
 `I miss you guys so much.`  
 那当然 怎么样?  
 `Sure you did, what do you think?`  
-- 挺不错  
-- 可爱极了  
-`- Look at that.  
-- Cute.`  
-- 上帝呀  
-- 别说了  
-`- Gold.  
-- Stop it.`  
+`挺不错  `
+`可爱极了  `
+``Look at that.  `
+`Cute.`  `
+`上帝呀  `
+`别说了  `
+``Gold.  `
+`Stop it.`  `
 我们一直在这等你...  
 `Wait until you see the end.`  
 哦 我喜欢你这条小领带  
 `Oh I love your little tie.`  
 嘿 咱家媳妇儿在哪?  
 `Hey, where's my girl?`  
-- 咱家媳妇儿呢 我们漂亮的卡莉呢?  
-- 她去工作了 妈  
-`- where's my beautiful Carly?  
-- She's at work, Ma.`  
-- 她找到新工作了  
-- 好极了  
-`- She's got a new job.  
-- Right.`  
+`咱家媳妇儿呢 我们漂亮的卡莉呢?  `
+`她去工作了 妈  `
+``where's my beautiful Carly?  `
+`She's at work, Ma.`  `
+`她找到新工作了  `
+`好极了  `
+``She's got a new job.  `
+`Right.`  `
 我原以为你们要一周后才来这儿  
 `I thought you were going to be here in a week.`  
 11月21号 爸记得吗?  
 `The 21st of the 11th, Dad remember?`  
-- 这完全是...  
-- 我们快马加鞭赶过来的  
-`- It's all the enthusiastic thing...  
-- ... A love job with flies.`  
+`这完全是...  `
+`我们快马加鞭赶过来的  `
+``It's all the enthusiastic thing...  `
+`... A love job with flies.`  `
 哦 是不是我们耽误你什么事了?  
 `Oh, are we keeping you from something?`  
 比如 你的工作  
@@ -462,10 +462,10 @@
 `Uh, I have, uh, job interviews.`  
 哦 那挺好  
 `Oh, that's good.`  
-- 那很糟  
-- 别说了  
-`- That sucks.  
-- Stop it.`  
+`那很糟  `
+`别说了  `
+``That sucks.  `
+`Stop it.`  `
 老爸 你不用这么悲观 你看  
 `You don't have to be so negative dad, you know.`  
 你现在在华盛顿 和你的儿子 你的家庭在一起  
@@ -474,16 +474,16 @@
 `I mean it's good times.`  
 除了你没有工作这事真让人郁闷  
 `It sucks that you don't have a job.`  
-- 还有很多美好的事情要去做 对吧?  
-- 是啊  
-`- Good things to do here too, right?  
-- Yeah.`  
+`还有很多美好的事情要去做 对吧?  `
+`是啊  `
+``Good things to do here too, right?  `
+`Yeah.`  `
 你看 图书馆 纪念碑 好吧  
 `Right, museums and monuments, okay.`  
-- 晚上我再来找你们  
-- 我还要去猎山羊  
-`- I'll see you tonight.  
-- I'm bagging the gift.`  
+`晚上我再来找你们  `
+`我还要去猎山羊  `
+``I'll see you tonight.  `
+`I'm bagging the gift.`  `
 萨姆 我觉得你去面试得穿条像样的裤子  
 `Sam, I think for an interview you should wear real pants.`  
 我觉得为了生活 你就得穿条像样的裤子  
@@ -592,10 +592,10 @@
 `Guys,`  
 这上面怎么有苏联太空计划的标志？  
 `Why does this thing have Soviet space program markings on it?`  
-- 斯普特尼克号  
-- 存在超能量 长官  
-`- Sputnik.  
-- Energon readings, sir.`  
+`斯普特尼克号  `
+`存在超能量 长官  `
+``Sputnik.  `
+`Energon readings, sir.`  `
 很强烈  
 `It's strong.`  
 在我们底下  
@@ -650,16 +650,16 @@
 `Yep, the search is over.`  
 我是惠特利先生  
 `I'm Mr. Whitley.`  
-- 还有别人吗?  
-- 没了  
-`- Is any one else joining?  
-- No.`  
+`还有别人吗?  `
+`没了  `
+``Is any one else joining?  `
+`No.`  `
 没了?  
 `No?`  
-- 想让我坐在那里吗? 我没关系  
-- 还是别了  
-`- Want me to move right there, I'm moving right there.  
-- I prefer not.`  
+`想让我坐在那里吗? 我没关系  `
+`还是别了  `
+``Want me to move right there, I'm moving right there.  `
+`I prefer not.`  `
 老师好  
 `Sensei.`  
 准备好 开始  
@@ -678,18 +678,18 @@
 `Why did we bother sending him to an Ivy College for?`  
 毕业了三个月都找不到一份工作  
 `Three months out of school and he can't find a job.`  
-- 松笨先生  
-- 松本先生...  
-`- Mr. Matsu-piece-u.  
-- Matsu Moto...`  
-- 松... 笨  
-- 松本  
-`- Masi... Moto  
-- Masu Moto.`  
-- 玛莎 我能叫你玛莎吗?  
-- 不可以  
-`- Martha, can I call you Martha?  
-- No, you may not.`  
+`松笨先生  `
+`松本先生...  `
+``Mr. Matsu-piece-u.  `
+`Matsu Moto...`  `
+`松... 笨  `
+`松本  `
+``Masi... Moto  `
+`Masu Moto.`  `
+`玛莎 我能叫你玛莎吗?  `
+`不可以  `
+``Martha, can I call you Martha?  `
+`No, you may not.`  `
 杰克 世上有两种人  
 `Okay. Jack, there's two type of people in this world.`  
 思考者和行动者  
@@ -724,22 +724,22 @@
 `Just saying.`  
 聘用一个获得勋章的人 也是一件好事吧  
 `It's always good to have a medal guy in the office, with a medal.`  
-- 奥巴马颁发的?  
-- 是啊  
-`- From Obama?  
-- Yeah.`  
+`奥巴马颁发的?  `
+`是啊  `
+``From Obama?  `
+`Yeah.`  `
 可公司里大部分人都是共和党员  
 `In this office, we're mostly Republicans.`  
 所以  
 `So.`  
-- 我不太舒服  
-- 是吗  
-`- I'm not feeling to good.  
-- No.`  
-- 是  
-- 去找个狗食盆呗?  
-`- No.  
-- Why don't you get a little dipping tray.`  
+`我不太舒服  `
+`是吗  `
+``I'm not feeling to good.  `
+`No.`  `
+`是  `
+`去找个狗食盆呗?  `
+``No.  `
+`Why don't you get a little dipping tray.`  `
 弄点健胃消食片 总会好的  
 `And dip the dog in the pepto, that's the solution.`  
 糟糕 还有一场 得走了 快  
@@ -792,10 +792,10 @@
 `Impress me.`  
 我没什么好遮掩的 您随便问  
 `I'm an open book, ask me any question you like.`  
-- 你是个有野心 很强势的人  
-- 是的  
-`- So you're a go get a ramrod.  
-- Yes sir.`  
+`你是个有野心 很强势的人  `
+`是的  `
+``So you're a go get a ramrod.  `
+`Yes sir.`  `
 控制欲很强  
 `Take charge kind of guy.`  
 我像杀手一般冷血无情  
@@ -820,10 +820,10 @@
 `Um, why is Chantal using what appears to be,`  
 才能用的红杯子呢?  
 `a red cup from the red floor?`  
-- 我们这层是黄色主题  
-- 立刻处理  
-`- When we are on the yellow floor.  
-- I'm on it.`  
+`我们这层是黄色主题  `
+`立刻处理  `
+``When we are on the yellow floor.  `
+`I'm on it.`  `
 这简直是从视觉到身心的背叛  
 `It is a visual and therefore a visceral betrayal.`  
 办了它  
@@ -856,9 +856,9 @@
 `And I'd just kinda like a job where I matter again.`  
 谢谢 但我不感谢您  
 `So thank you, but no thank you.`  
-- 好吗  
-- 知道我怎么想的吗?  
-`- Okay. -You know what I think?`  
+`好吗  `
+`知道我怎么想的吗?  `
+``Okay. -You know what I think?`  `
 干大事前总有琐事  
 `You want the job after this job.`  
 孩子啊 你得先干这份眼下唯一的差事  
@@ -933,10 +933,10 @@
 `No, ma'am.`  
 是的女士 不喊了  
 `Yes, ma'am, yes.`  
-- 这东西是我最好的发明  
-- 是啊  
-`- This one is a perfect invention I have made.  
-- Right.`  
+`这东西是我最好的发明  `
+`是啊  `
+``This one is a perfect invention I have made.  `
+`Right.`  `
 喔 你们终于来了  
 `Oh, good they're here.`  
 我叫齐 希望你们能给他个交代  
@@ -957,10 +957,10 @@
 `The silent treatment?`  
 我们已见识过了 可不像这样  
 `We've seen that, and this is not that.`  
-- 没那么夸张吧  
-- 这比那严重  
-`- Definitely not.  
-- This is worse.`  
+`没那么夸张吧  `
+`这比那严重  `
+``Definitely not.  `
+`This is worse.`  `
 老大 别这么不中用了  
 `Prime, make something of yourself.`  
 他生气了  
@@ -977,10 +977,10 @@
 `We were in the dark on this also.`  
 目前这事在第七区 也就只有主管知道  
 `It was director only clearance at Sector 7, until now.`  
-- 给我包  
-- 哪个包?  
-`- The bag.  
-- Which bag?`  
+`给我包  `
+`哪个包?  `
+``The bag.  `
+`Which bag?`  `
 爱马仕铂金包 绿色鸵鸟皮的那个  
 `Hermes Birkin, green ostrich.`  
 真受不了  
@@ -1051,10 +1051,10 @@
 `...technology which would have won us the war.`  
 此外 还有飞船上的船长  
 `And its captain.`  
-- 船长是谁?  
-- 他就是伟大的御天敌  
-`- Who was this captain?  
-- The Great Sentinel Prime.`  
+`船长是谁?  `
+`他就是伟大的御天敌  `
+``Who was this captain?  `
+`The Great Sentinel Prime.`  `
 汽车人技术的发明者  
 `The technology's inventor.`  
 他是汽车人的前任领袖  
@@ -1075,20 +1075,20 @@
 `Carly!`  
 你得到那工作了?  
 `You got the job?`  
-- 说来你都不信  
-- 你真得到那工作了?  
-`- This is crazy.  
-- You really got it?`  
-- 对  
-- 我说的没错 都是幸运兔子的功劳  
-`- Yes.  
-- See what did I tell you, it's the bunny.`  
+`说来你都不信  `
+`你真得到那工作了?  `
+``This is crazy.  `
+`You really got it?`  `
+`对  `
+`我说的没错 都是幸运兔子的功劳  `
+``Yes.  `
+`See what did I tell you, it's the bunny.`  `
 你太客气了  
 `You are so welcome.`  
-- 你有没有更喜欢我了?  
-- 一点点啦  
-`- Do you like me a little more?  
-- A little bit, yeah.`  
+`你有没有更喜欢我了?  `
+`一点点啦  `
+``Do you like me a little more?  `
+`A little bit, yeah.`  `
 我想见传说中的...  
 `I'm seriously curious about...`  
 ...高人  
@@ -1097,10 +1097,10 @@
 `I know, isn't it beautiful in here?`  
 他可是有史以来最酷的人  
 `And he's the coolest guy, ever.`  
-- 嗯  
-- 没错  
-`- Yeah.  
-- Yeah.`  
+`嗯  `
+`没错  `
+``Yeah.  `
+`Yeah.`  `
 萨姆啊  
 `Sam.`  
 我是迪兰·古尔德  
@@ -1183,10 +1183,10 @@
 `These look great.`  
 哦 古尔德先生 那天你真了不起  
 `Oh, that was a great day, Mr. Gould.`  
-- 我之前都没注意到这张  
-- 我也没  
-`- I didn't see that one.  
-- No, me either.`  
+`我之前都没注意到这张  `
+`我也没  `
+``I didn't see that one.  `
+`No, me either.`  `
 那次比赛太激烈了  
 `Jeans are tight.`  
 哦 又来了 又来了  
@@ -1231,10 +1231,10 @@
 `I think I can handle it.`  
 等等 让我不爽的是... 是你也对他笑了  
 `Hold on, hold on. It's... It's the smiling back part that gets me.`  
-- 好不好  
-- 那我不对他笑了  
-`- Okay.  
-- No more smiles.`  
+`好不好  `
+`那我不对他笑了  `
+``Okay.  `
+`No more smiles.`  `
 我保证再也不了  
 `Never again, I promise.`  
 这我爱听  
@@ -1331,10 +1331,10 @@
 `Hello, mom.`  
 滚出我们家!  
 `Get out of the house!`  
-- 你来我家做什么?  
-- 拜访而已  
-`- What are you doing in my house?  
-- Just visiting.`  
+`你来我家做什么?  `
+`拜访而已  `
+``What are you doing in my house?  `
+`Just visiting.`  `
 你来我家做什么?  
 `What's this hoochee around here?`  
 拜访而已...  
@@ -1357,10 +1357,10 @@
 `I want you to live it, love it and made it.`  
 在我这里没有捷径可走 我可是相当严格  
 `There's no ladder climbing in my office. I run a tight ship.`  
-- 知道了 先生  
-- 好 干活  
-`- Yes, sir.  
-- Okay, so move.`  
+`知道了 先生  `
+`好 干活  `
+``Yes, sir.  `
+`Okay, so move.`  `
 我找到之前和你说的那份报告了  
 `I found that paper I was telling you about.`  
 你在看谁呢?  
@@ -1369,10 +1369,10 @@
 `Shut up!`  
 你再敢对我那样小心我揍你  
 `You do that to me again and I'll kick your ass.`  
-- 你好啊 美女  
-- 你好啊  
-`- Hi Angel.  
-- Hello.`  
+`你好啊 美女  `
+`你好啊  `
+``Hi Angel.  `
+`Hello.`  `
 你还好吧?  
 `You're good?`  
 我要去市中心开会 顺路进来看下你 没问题吧?  
@@ -1443,10 +1443,10 @@
 `I know.`  
 你知道我要工作多久才能买得起这么辆车吗?  
 `You know how long it would take me to afford a car like this?`  
-- 很久  
-- 对 要53年  
-`- Long time.  
-- Yeah like, 53 years.`  
+`很久  `
+`对 要53年  `
+``Long time.  `
+`Yeah like, 53 years.`  `
 刚才你也同意这是为了激励我的工作  
 `I said it was a perk, first.`  
 你知道我们该怎么做吗? 我们应该把它卖了然后买套房子  
@@ -1475,18 +1475,18 @@
 `Now who have we here, a sister, facebook friend?`  
 微博上认识的吗  
 `Twitter, tweeter.`  
-- 卡莉 这是布鲁斯  
-- 你好  
-`- Carly this is Bruce. Bruce.  
-- Hi.`  
+`卡莉 这是布鲁斯  `
+`你好  `
+``Carly this is Bruce. Bruce.  `
+`Hi.`  `
 我是他女朋友 幸会幸会  
 `I'm his girlfriend, pleasure to meet you.`  
 萨姆说的对 你的发型很帅  
 `Sam was right, you really do have smashing head of hair.`  
-- 多谢夸奖  
-- 不客气  
-`- Well thank you.  
-- Your welcome.`  
+`多谢夸奖  `
+`不客气  `
+``Well thank you.  `
+`Your welcome.`  `
 萨姆 我该走了  
 `Sam I gotta run.`  
 给 你的礼物  
@@ -1511,10 +1511,10 @@
 `I know who you are.`  
 你是威特维奇  
 `Wicky, Witwicky.`  
-- 我知道你 我在和你说话  
-- 借过  
-`- You know who, I'm talking to you.  
-- Excuse me.`  
+`我知道你 我在和你说话  `
+`借过  `
+``You know who, I'm talking to you.  `
+`Excuse me.`  `
 谢谢  
 `Thank you.`  
 别 别 慢点 猛男  
@@ -1617,10 +1617,10 @@
 `You straddled me in the stall.`  
 这是史无前例的 我永生难忘  
 `That's happened to me once in this life, I wouldn't forget it.`  
-- 没有 不记得了  
-- 在厕所的隔间里  
-`- No, no.  
-- In the bathroom stall.`  
+`没有 不记得了  `
+`在厕所的隔间里  `
+``No, no.  `
+`In the bathroom stall.`  `
 你把你的东西掏了出来  
 `You pulled your package out.`  
 喔 我 我们不是同性恋好么  
@@ -1655,10 +1655,10 @@
 `I know.`  
 我的上级需要我...  
 `My superiors need me to....`  
-- 干什么?  
-- 让你自杀  
-`- What?  
-- Suicide you.`  
+`干什么?  `
+`让你自杀  `
+``What?  `
+`Suicide you.`  `
 你和威特维奇说什么了?  
 `What did you say to Witwicky?`  
 去你的  
@@ -1729,32 +1729,32 @@
 `We got an emergency, you gotta get Colonel Lennox in here.`  
 是关于霸天虎的 霸天虎要回来了  
 `On point decepticons, the deceptions are back again.`  
-- 你现在就要让我进去  
-- 冷静点 先生  
-`- You gotta open that gate up right now.  
-- Easy, sir.`  
+`你现在就要让我进去  `
+`冷静点 先生  `
+``You gotta open that gate up right now.  `
+`Easy, sir.`  `
 这是公共健康与社会福利部  
 `This is health and human services.`  
 那你怎么拿着冲锋枪?  
 `Right, packing M-4's?`  
 你们在保护输尿管  
 `What are you protecting, colostomy bags?`  
-- 尿壶还有止咳剂吗?  
-- 亲爱的  
-`- Bed pans, throat lozenges?  
-- Babe.`  
+`尿壶还有止咳剂吗?  `
+`亲爱的  `
+``Bed pans, throat lozenges?  `
+`Babe.`  `
 你从哪里搞来那个帽子的? 护士学校吗?  
 `Where did you get that hat from? Nursing school?`  
 所以你们在保护护士和脚气药粉啊  
 `So your are nurses and foot powder protector.`  
-- 哦 多棒啊 是啊  
-- 亲爱的 我觉得我们没有...  
-`- Oh, fantastic, yes.  
-- Baby, I don't think we're in...`  
-- ...来对地方  
-- 就是这里没错  
-`- ...the right place.  
-- We are in the right place.`  
+`哦 多棒啊 是啊  `
+`亲爱的 我觉得我们没有...  `
+``Oh, fantastic, yes.  `
+`Baby, I don't think we're in...`  `
+`...来对地方  `
+`就是这里没错  `
+``...the right place.  `
+`We are in the right place.`  `
 这就是我们要找的地方  
 `We are in the right place.`  
 我们就是要来这里  
@@ -1781,34 +1781,34 @@
 `We got an Energon reading.`  
 探测到在车上  
 `We got Missed it by that much in the vehicle.`  
-- 不许动!  
-- 哇 哇 哇 我们没有动  
-`- Freeze!  
-- Whoa, whoa, whoa, we're freezing.`  
+`不许动!  `
+`哇 哇 哇 我们没有动  `
+``Freeze!  `
+`Whoa, whoa, whoa, we're freezing.`  `
 你们是在...  
 `Are you...`  
 快从车上下来  
 `Please get out of the car.`  
-- 我抓住他了 过来  
-- 大黄蜂!  
-`- I got him, go.  
-- Bee!`  
+`我抓住他了 过来  `
+`大黄蜂!  `
+``I got him, go.  `
+`Bee!`  `
 大黄蜂听到了吗?  
 `Is Bee in there?`  
-- 好了 你抓住我了  
-- 趴下  
-`- Okay, you got me.  
-- Stay down.`  
+`好了 你抓住我了  `
+`趴下  `
+``Okay, you got me.  `
+`Stay down.`  `
 你们就是这样对待汽车人的吗?  
 `This how you treat Autobots?`  
 我们可是一伙的  
 `We're on the same team.`  
 你们今后还是去便利店打杂吧 白痴  
 `Yeah, enjoy your next job at 7-11, dickhead.`  
-- 没错  
-- 混蛋  
-`- That's right.  
-- A-hole.`  
+`没错  `
+`混蛋  `
+``That's right.  `
+`A-hole.`  `
 现在车毁了吧?  
 `How's your car now?`  
 这才是我的车  
@@ -1879,18 +1879,18 @@
 `...until we know what we're dealing with.`  
 现在谁也不许接近它们  
 `Right now no one gets access.`  
-- 谁也不行  
-- 今天早上一个人认出我来了  
-`- No one.  
-- This morning a guy recognized me.`  
+`谁也不行  `
+`今天早上一个人认出我来了  `
+``No one.  `
+`This morning a guy recognized me.`  `
 他告诉我来警告你们  
 `He told me to warn you,`  
 他谈到了月球的黑暗面  
 `he's talking about the dark side of the moon.`  
-- 然后霸天虎杀了他  
-- 等下 你刚提到了月球?  
-`- Then they killed him.  
-- Wait a minute, you mentioned the moon?`  
+`然后霸天虎杀了他  `
+`等下 你刚提到了月球?  `
+``Then they killed him.  `
+`Wait a minute, you mentioned the moon?`  `
 是的 月球的黑暗面  
 `Yeah, dark side of the moon.`  
 但是为什么霸天虎谋杀人类呢?  
@@ -1909,10 +1909,10 @@
 `Director Mearing.`  
 这是萨姆·威特维奇  
 `This is Sam Witwicky.`  
-- 一个老百姓...  
-- 我知道他的名字 上校  
-`- A civilian c...  
-- I know his name, Colonel.`  
+`一个老百姓...  `
+`我知道他的名字 上校  `
+``A civilian c...  `
+`I know his name, Colonel.`  `
 我想知道谁准许他进来的  
 `I want to know who gave him clearance.`  
 谁准许我进来的? 要是擎天柱可以吗  
@@ -1923,10 +1923,10 @@
 `This is the national intelligence director.`  
 你最好...  
 `In case you...`  
-- 嗨  
-- 你这是无视联邦长官  
-`- Hi.  
-- Disrespecting a federal officer.`  
+`嗨  `
+`你这是无视联邦长官  `
+``Hi.  `
+`Disrespecting a federal officer.`  `
 凭这个应该把你带走 她是谁  
 `That ought to get you somewhere, who's she?`  
 她是我女朋友  
@@ -1999,14 +1999,14 @@
 `We bid you return.`  
 复仇  
 `Revenge.`  
-- 别  
-- 别开火  
-`- No.  
-- Hold your fire.`  
-- 不 御天敌  
+`别  `
+`别开火  `
+``No.  `
+`Hold your fire.`  `
+`不 御天敌  `
 小心  
-`- No, Sentinel.  
-- Hold your fire.`  
+``No, Sentinel.  `
+`Hold your fire.`  `
 是我 擎天柱  
 `It is I, Optimus Prime.`  
 一切都过去了  
@@ -2177,10 +2177,10 @@
 `Bee, you take the freight elevator, I'll see you up there.`  
 啊 真差劲  
 `Ah, this blows.`  
-- 那个长官阿姨把我们赶出来了  
-- 是啊  
-`- That lady officially kicked us out.  
-- Yeah.`  
+`那个长官阿姨把我们赶出来了  `
+`是啊  `
+``That lady officially kicked us out.  `
+`Yeah.`  `
 去他妈的证人保护计划  
 `Witness protection program sucks.`  
 没错 但有了大黄蜂...  
@@ -2253,16 +2253,16 @@
 `It doesn't mean I'm always right.`  
 谢谢 事实是 我们得到了文件  
 `Thank you. Here's a fact, we obtained documents that show you were`  
-- 上面写着你是被情报局委员会开除的  
-- 查克 我正在做采访呢  
-`- fired by the intelligence committee.  
-- Chuck, I'm doing the interview.`  
+`上面写着你是被情报局委员会开除的  `
+`查克 我正在做采访呢  `
+``fired by the intelligence committee.  `
+`Chuck, I'm doing the interview.`  `
 比尔 这是为了减少开支  
 `Down sized. Bill, budget cuts.`  
-- 出去  
-- ...据说你有严重的妄想症  
-`- Chuck, out.  
-- ...report get severe delusional tendencies.`  
+`出去  `
+`...据说你有严重的妄想症  `
+``Chuck, out.  `
+`...report get severe delusional tendencies.`  `
 这是诽谤  
 `This is ambush journalism.`  
 你想知道关于外星人联盟的真相吗?  
@@ -2277,20 +2277,20 @@
 `You want to piss me, Bill, you want get naked?`  
 来吧 采访结束了  
 `I'm ready, interview is over.`  
-- 你暴露了 你是个白痴  
-- 滚出我的家  
-`- You sound like a pin-head agent.  
-- You get out of my house.`  
+`你暴露了 你是个白痴  `
+`滚出我的家  `
+``You sound like a pin-head agent.  `
+`You get out of my house.`  `
 给你个忠告  
 `And I got a suggestion for you.`  
 结束了 懂?  
 `It is over, understand?`  
 控制情绪  
 `Damage control.`  
-- 小荷!  
-- 你们显然把西蒙斯先生激怒了  
-`- Dutch!  
-- You have obviously upset Mr. Simmons.`  
+`小荷!  `
+`你们显然把西蒙斯先生激怒了  `
+``Dutch!  `
+`You have obviously upset Mr. Simmons.`  `
 你们有23秒可以离开这里  
 `You have 23 seconds to leave the property.`  
 我已经叫了警察  
@@ -2397,10 +2397,10 @@
 `Noo.`  
 让我见识见识汽车人 就一次  
 `You let me see one of them, one time.`  
-- 快点  
-- 很快  
-`- Quick.  
-- Very.`  
+`快点  `
+`很快  `
+``Quick.  `
+`Very.`  `
 这是他们的月球探测命令  
 `Here's their reconnaissance order.`  
 上面说是美国宇航局2009年发布的  
@@ -2449,14 +2449,14 @@
 `Having a pretty high level alien Intel confab here.`  
 我想你应该不能进来吧  
 `That I don't think you're cleared for.`  
-- 小跟班  
-- 是啊 你说对了  
-`- Errand boy.  
-- Yeah, you're right.`  
-- 真是个坏脾气的机器人  
-- 请便 先生  
-`- It's a bitchin' robot.  
-- I think it's time to go, Bruce, okay?`  
+`小跟班  `
+`是啊 你说对了  `
+``Errand boy.  `
+`Yeah, you're right.`  `
+`真是个坏脾气的机器人  `
+`请便 先生  `
+``It's a bitchin' robot.  `
+`I think it's time to go, Bruce, okay?`  `
 谢谢你让我进来参观  
 `Thank you so much for this.`  
 该走了 布鲁斯  
@@ -2485,24 +2485,24 @@
 `Would somebody tell me what the hell's going on?`  
 你是谁?  
 `Who are you?`  
-- 你是谁?  
-- 我是谁?  
-`- Who are you?  
-- Who am I?`  
+`你是谁?  `
+`我是谁?  `
+``Who are you?  `
+`Who am I?`  `
 他是谁? 小荷 搜她的身  
 `Who is that? Dutch, frisk her.`  
-- 没问题  
-- 嘿 别  
-`- Certainly.  
-- Here, no.`  
+`没问题  `
+`嘿 别  `
+``Certainly.  `
+`Here, no.`  `
 小荷 呃...  
 `Dutch, um...`  
 别碰我  
 `Don't touch me.`  
-- 我不打算...  
-- 怎么解释萨姆?  
-`- I'm not going to...  
-- Sam?`  
+`我不打算...  `
+`怎么解释萨姆?  `
+``I'm not going to...  `
+`Sam?`  `
 宝贝儿  
 `Angel.`  
 呃 我在工作  
@@ -2543,10 +2543,10 @@
 `Okay, and you're thinking about your family.`  
 但这和你哥哥的情况不一样  
 `And it's not that situation.`  
-- 不一样?  
-- 对  
-`- No?  
-- No.`  
+`不一样?  `
+`对  `
+``No?  `
+`No.`  `
 为什么不一样?  
 `Why not?`  
 对我来说都一样 萨姆  
@@ -2593,10 +2593,10 @@
 `A warrior's path is a solitary one.`  
 见鬼 她怎么买得起那么好的车  
 `How the hell does she afford that car?`  
-- 她老板买给她的  
-- 该死的有钱人  
-`- Her boss.  
-- Rich bastards.`  
+`她老板买给她的  `
+`该死的有钱人  `
+``Her boss.  `
+`Rich bastards.`  `
 以前我看他们不爽  
 `I used to hate them.`  
 不过现在嘛...  
@@ -2625,10 +2625,10 @@
 `...they never like to talk.`  
 对付他们得用点国际通用语  
 `It's going to take a little of the international language.`  
-- Dos vedanya(俄语)  
-- 那是再见的意思  
-`- Dos vedanya.  
-- That means goodbye.`  
+`Dos vedanya(俄语)  `
+`那是再见的意思  `
+``Dos vedanya.  `
+`That means goodbye.`  `
 谁引发了革命?  
 `Who's to get revolution.`  
 一个很有名的人 但我不知道是谁  
@@ -2637,10 +2637,10 @@
 `Dutch.`  
 给我几句狠话吓吓他们  
 `Give me something tough.`  
-- 巴雷什尼科夫  
-- 我们会说英语  
-`- Baryshnikov.  
-- We do speak English.`  
+`巴雷什尼科夫  `
+`我们会说英语  `
+``Baryshnikov.  `
+`We do speak English.`  `
 小荷 你真菜  
 `Dutch, you suck.`  
 这是西里尔语 全是生僻词  
@@ -2669,10 +2669,10 @@
 `Can my child smoke in here?`  
 好啊 来啊 好啊!  
 `Okay, all right. Okay!`  
-- 来啊 打我啊  
-- 这位小甜心是谁啊?  
-`- Yeah, shoot me.  
-- Who was this delish, huh?`  
+`来啊 打我啊  `
+`这位小甜心是谁啊?  `
+``Yeah, shoot me.  `
+`Who was this delish, huh?`  `
 我在我的国家就是个司机 你是吗?  
 `I'm only the driver in my country are you?`  
 你真美  
@@ -2707,14 +2707,14 @@
 `take picture of the Dark, the shadow side.`  
 什么都没看见  
 `See's nothing.`  
-- 但到1963年四号探测器拍到了...  
-- 奇怪的岩石  
-`- But in 1963 Lunar 4 sees...  
-- ...strange rocks.`  
-- 对  
-- 围绕着飞船  
-`- Yeah.  
-- Around the ship.`  
+`但到1963年四号探测器拍到了...  `
+`奇怪的岩石  `
+``But in 1963 Lunar 4 sees...  `
+`...strange rocks.`  `
+`对  `
+`围绕着飞船  `
+``Yeah.  `
+`Around the ship.`  `
 有数百个  
 `Hundreds of them.`  
 给他们看看照片  
@@ -2827,16 +2827,16 @@
 `Decepticon punk.`  
 解散  
 `Class dismissed.`  
-- 进去 快进去  
-- 进去  
-`- Inside, let's go.  
-- Move.`  
+`进去 快进去  `
+`进去  `
+``Inside, let's go.  `
+`Move.`  `
 快点 别磨蹭  
 `Quick, move it.`  
-- 雷尼克斯  
-- 走 走 走 走  
-`- Lennox.  
-- Go, go, go, go.`  
+`雷尼克斯  `
+`走 走 走 走  `
+``Lennox.  `
+`Go, go, go, go.`  `
 到处都是霸天虎  
 `We got decepticons everywhere.`  
 我安排弟兄们去找他们了  
@@ -2867,10 +2867,10 @@
 `What have you done?`  
 我在此宣布解除你的使命  
 `I hereby discharge you from duty.`  
-- 大黄蜂!  
-- 退后  
-`- B!  
-- Get back.`  
+`大黄蜂!  `
+`退后  `
+``B!  `
+`Get back.`  `
 所有的弟兄全部撤回基地  
 `Bring all the NEST forces back to the base.`  
 快点 动起来  
@@ -2889,10 +2889,10 @@
 `Go, follow me.`  
 开火  
 `Start firing.`  
-- 等等 别进去  
-- 走开  
-`- Wait don't.  
-- Get out.`  
+`等等 别进去  `
+`走开  `
+``Wait don't.  `
+`Get out.`  `
 嘿 御天敌  
 `Hey, Sentinel.`  
 这是怎么回事?  
@@ -2905,10 +2905,10 @@
 `I do not take orders from you.`  
 米樱局长 快来 我们打不过他的 走吧  
 `Director Mearing come on. We can't fight him, let's go.`  
-- 我们得走了  
-- 现在  
-`- We have to go.  
-- Now.`  
+`我们得走了  `
+`现在  `
+``We have to go.  `
+`Now.`  `
 把我的还给我  
 `Return what belongs to me.`  
 上帝啊  
@@ -2953,14 +2953,14 @@
 `We might have broken up, or be on a break.`  
 我也不清楚  
 `I don't really know.`  
-- 什么!?... 不  
-- 我现在没空说这些  
-`- What!?... Noo.  
-- Look, I can't talk about it.`  
-- 你逗我玩吧  
-- 我...  
-`- You gotta be kidding me.  
-- I...`  
+`什么!?... 不  `
+`我现在没空说这些  `
+``What!?... Noo.  `
+`Look, I can't talk about it.`  `
+`你逗我玩吧  `
+`我...  `
+``You gotta be kidding me.  `
+`I...`  `
 ...现在没空说细节 妈 我要找到她  
 `...can't go into details now, Mom. I have to find her.`  
 萨姆 我们要开个家庭会议  
@@ -2975,34 +2975,34 @@
 `You know there was a time in our marriage when I thought,`  
 "这样下去没结果的"  
 `"This is not going to work out."`  
-- 你能快点吗  
-- 我只是希望你...  
-`- Can you please hurry up.  
-- I'm just hope you ...`  
-- ...你能明白你...  
-- 我不敢  
-`- ...just understand that you...  
-- She's damaging me.`  
+`你能快点吗  `
+`我只是希望你...  `
+``Can you please hurry up.  `
+`I'm just hope you ...`  `
+`...你能明白你...  `
+`我不敢  `
+``...just understand that you...  `
+`She's damaging me.`  `
 ...和一个世界级美女分手  
 `...break up with one world class high.`  
-- 不 别说了 别说了 别说了  
-- 我就要说  
-`- No, stop, stop, okay.  
-- Yeah.`  
+`不 别说了 别说了 别说了  `
+`我就要说  `
+``No, stop, stop, okay.  `
+`Yeah.`  `
 她甩了我 我有更重要的事  
 `She dumped me, I moved to something better.`  
 就是这样 我现在更开心了  
 `That's it, I'm a happier person.`  
 这不如你想象的美好...  
 `It's not going to be as beautiful...`  
-- 失去她 你怎么失去她的?  
-- 帮帮我  
-`- Lose her, why did you lose her?  
-- Help me.`  
-- 他们吵架了  
-- 我们有争执  
-`- They had an argument.  
-- We had a fight.`  
+`失去她 你怎么失去她的?  `
+`帮帮我  `
+``Lose her, why did you lose her?  `
+`Help me.`  `
+`他们吵架了  `
+`我们有争执  `
+``They had an argument.  `
+`We had a fight.`  `
 好吧 但你不可能再遇到第三个了  
 `Okay, but you're not going to get a third one.`  
 我是说除非你有...  
@@ -3014,44 +3014,44 @@
 `Mom, mom, don't want to talk about it.`  
 我觉得你就是不懂  
 `I mean you just don't know.`  
-- 我只是不想说了  
-- 你要看看这本书  
-`- Just don't want to talk.  
-- You need a book.`  
+`我只是不想说了  `
+`你要看看这本书  `
+``Just don't want to talk.  `
+`You need a book.`  `
 错都在你  
 `You'll always wrong.`  
-- 要学着习惯  
-- 对 你一定要认真读这本书  
-`- Get used to it. -Okay, this you gotta read this.`  
+`要学着习惯  `
+`对 你一定要认真读这本书  `
+``Get used to it. -Okay, this you gotta read this.`  `
 女人总是对的 这本书可是...  
 `She comes first, there's some killer...`  
-- ...金玉良言啊  
-- 不 不 不  
-`- ...shit in here.  
-- No, No, No.`  
-- 啊 又来了  
-- 不 不  
-`- Ah, let's get this.  
-- No, no.`  
-- 不 不  
-- 坐下  
+`...金玉良言啊  `
+`不 不 不  `
+``...shit in here.  `
+`No, No, No.`  `
+`啊 又来了  `
+`不 不  `
+``Ah, let's get this.  `
+`No, no.`  `
+`不 不  `
+`坐下  `
 坐下!  
-`- No, no.  
-- Sit down. Sit down!`  
+``No, no.  `
+`Sit down. Sit down!`  `
 附和我  
 `Back me up.`  
 老婆高兴 生活就美好  
 `Happy wife, happy life.`  
-- 对  
-- 老婆不高兴...  
-`- Yeah.  
-- unhappy wife...`  
+`对  `
+`老婆不高兴...  `
+``Yeah.  `
+`unhappy wife...`  `
 余生凄凉痛苦如墓碑...  
 `Stone cold misery for the rest of your...`  
-- 打住  
-- 我说的没错啊  
-`- Stop.  
-- It's true.`  
+`打住  `
+`我说的没错啊  `
+``Stop.  `
+`It's true.`  `
 我说了这么多  
 `All I'm saying is.`  
 你到底喜欢她吗?  
@@ -3070,10 +3070,10 @@
 `Say it.`  
 我会陪你到天荒地老  
 `I would follow you to the end of time.`  
-- 觉得蛋疼么?  
-- 不  
-`- Does that suck or what?  
-- No.`  
+`觉得蛋疼么?  `
+`不  `
+``Does that suck or what?  `
+`No.`  `
 跟演偶像剧一样  
 `Bad syfy dope.`  
 我要你们离开这里 有多远走多远  
@@ -3158,10 +3158,10 @@
 `It's funny I was just thinking on the way over here,`  
 迪兰的有些建议确实挺适用  
 `I really could use some advice from Dylan.`  
-- 结果他还真在这 能跟你说几句?  
-- 欢迎  
-`- And there he is. Can I speak to you?  
-- Welcome.`  
+`结果他还真在这 能跟你说几句?  `
+`欢迎  `
+``And there he is. Can I speak to you?  `
+`Welcome.`  `
 请坐 喝两杯  
 `Please sit down, have a drink.`  
 我跟你讲 我不用你给酒喝  
@@ -3174,10 +3174,10 @@
 `Is that okay with you, Mr. Inappropriate?`  
 不好意思 失陪  
 `Excuse me.`  
-- 发生什么了?  
-- 出去告诉你  
-`- What's going on?  
-- I'll tell you outside.`  
+`发生什么了?  `
+`出去告诉你  `
+``What's going on?  `
+`I'll tell you outside.`  `
 我觉得我肯定能帮你 萨姆  
 `I really think I can help you, Sam.`  
 我记得和我父亲的一次谈话 关于两难的选择  
@@ -3200,14 +3200,14 @@
 `Certainly not you, sir.`  
 还想跑  
 `You're mine.`  
-- 快来人 快帮帮忙  
-- 萨姆 我出不去了  
-`- Get help. Someone get help.  
-- Sam, I can't get out.`  
-- 晚安  
-- 晚安迪兰先生  
-`- Goodnight  
-- Goodnight Mr. Dylan.`  
+`快来人 快帮帮忙  `
+`萨姆 我出不去了  `
+``Get help. Someone get help.  `
+`Sam, I can't get out.`  `
+`晚安  `
+`晚安迪兰先生  `
+``Goodnight  `
+`Goodnight Mr. Dylan.`  `
 萨姆 救救我  
 `Sam, get me out of here.`  
 来人啊  
@@ -3216,10 +3216,10 @@
 `Get help.`  
 他还嫩 会学着上道的  
 `He's young, he will learn.`  
-- 救命  
-- 晚安  
-`- Get me out.  
-- Goodnight.`  
+`救命  `
+`晚安  `
+``Get me out.  `
+`Goodnight.`  `
 有趣的晚上  
 `This was a fun night.`  
 你真的认为...  
@@ -3390,10 +3390,10 @@
 `Are you all right?`  
 没事  
 `Yes.`  
-- 肯定有事 你都出汗了  
-- 不 我很好  
-`- No you're not, you're sweating.  
-- No, I'm fine.`  
+`肯定有事 你都出汗了  `
+`不 我很好  `
+``No you're not, you're sweating.  `
+`No, I'm fine.`  `
 真没事 我出汗是紧张了  
 `I'm fine. I'm sweating because I'm nervous.`  
 我是在为此紧张...  
@@ -3404,10 +3404,10 @@
 `I'm a twitter junkie, I blog everything,`  
 我可保守不了秘密  
 `I can't keep secrets.`  
-- 噢 你不敢泄密的  
-- 我说的都是真的  
-`- Oh you wouldn't dare.  
-- That's the truth, I'm telling you.`  
+`噢 你不敢泄密的  `
+`我说的都是真的  `
+``Oh you wouldn't dare.  `
+`That's the truth, I'm telling you.`  `
 你敢泄露一个字试试  
 `You wouldn't dare.`  
 长官 15号线有您的电话  
@@ -3426,16 +3426,16 @@
 `...passed to exile the Autobots from American shores.`  
 而他们与美国的军事同盟也正式宣告结束  
 `The U.S. Military alliance with them is officially over.`  
-- 白宫发言人及当局领导...  
-- 说  
-`- The words of the house and the...  
-- Yeah.`  
+`白宫发言人及当局领导...  `
+`说  `
+``The words of the house and the...  `
+`Yeah.`  `
 对今天的决议发表了看法  
 `Authority leaders responds to today's resolution.`  
-- 什么?  
-- 我们不应自主地邀请...  
-`- What?  
-- We cannot in good conscious invite...`  
+`什么?  `
+`我们不应自主地邀请...  `
+``What?  `
+`We cannot in good conscious invite...`  `
 他们不能这样 你得去阻止他们  
 `They can't do this, you gotta tell them they can't do that.`  
 好了 上头发话了 该走了 伙计们!  
@@ -3490,16 +3490,16 @@
 `It's torqued to kill them.`  
 冷静点  
 `Calm down.`  
-- 埃普斯  
-- 你居然在这 你太不可理喻了  
-`- Epps.  
-- You are ridiculous, that's you.`  
+`埃普斯  `
+`你居然在这 你太不可理喻了  `
+``Epps.  `
+`You are ridiculous, that's you.`  `
 你好 伙计  
 `Hello, man.`  
-- 你在这干嘛呀  
-- 我已经从空军退役了  
-`- What are you doing here  
-- I'm retired from the air force.`  
+`你在这干嘛呀  `
+`我已经从空军退役了  `
+``What are you doing here  `
+`I'm retired from the air force.`  `
 能放开我的手吗?  
 `Can you let my hand go?`  
 你刚刚怎么了?  
@@ -3654,10 +3654,10 @@
 `Sure of what?`  
 确认他们将放弃抵抗 直接离开  
 `That they would go without a fight.`  
-- 再说一遍?  
-- 发现不明飞行物  
-`- Say again?  
-- Detecting a foreign object.`  
+`再说一遍?  `
+`发现不明飞行物  `
+``Say again?  `
+`Detecting a foreign object.`  `
 从现在开始 我们都为霸天虎效力  
 `We all work for the Decepticons now.`  
 帮帮忙 我需要追踪一个电话  
@@ -3686,10 +3686,10 @@
 `Trump tower, Chicago, lower penthouse.`  
 我们出发  
 `We're on.`  
-- 我要去  
-- 你确定  
-`- I'm going.  
-- You're sure.`  
+`我要去  `
+`你确定  `
+``I'm going.  `
+`You're sure.`  `
 感谢您一直尽力帮助我...  
 `She is out there without any help...`  
 我15小时之内能赶到那儿  
@@ -4040,10 +4040,10 @@
 `Okay, okay they can see us.`  
 芝加哥是坐标原点 明白吗?  
 `Chicago is ground zero, you understand?`  
-- 能听到吗? 明白吗?  
-- 天哪  
-`- You hear us, understand?  
-- Jesus.`  
+`能听到吗? 明白吗?  `
+`天哪  `
+``You hear us, understand?  `
+`Jesus.`  `
 御天敌在这里...  
 `The Sentinel prime is here...`  
 ...他有搭建太空桥需要的组件  
@@ -4074,10 +4074,10 @@
 `Show the kill chain.`  
 五分钟后在停机坪集合  
 `Guys on the tarmac, five minutes.`  
-- 距此东南方  
-- 好的  
-`- South east cupalar.  
-- All right.`  
+`距此东南方  `
+`好的  `
+``South east cupalar.  `
+`All right.`  `
 我们必须在战斗机发现我们前行动  
 `We need to move before the fighters spot us.`  
 在这里等着 我们去侦察前进路线  
@@ -4150,10 +4150,10 @@
 `Shockwave can't hunt all of us at once.`  
 清障车 你们去分散他们的注意力  
 `Wreckers, we need a diversion.`  
-- 我们上吧  
-- 你们能搞定  
-`- Let's get some.  
-- You got that right.`  
+`我们上吧  `
+`你们能搞定  `
+``Let's get some.  `
+`You got that right.`  `
 听着 我们要到那栋玻璃大厦周围  
 `Listen, we're going to circle around to that glass building.`  
 到一个火箭筒能够射击的高度  
@@ -4178,10 +4178,10 @@
 `Armed in thirty seconds.`  
 爪式手套能用来攀爬  
 `Grapple gloves, for climbing.`  
-- 快走 快  
-- 快点!  
-`- Move out, go on.  
-- Move!`  
+`快走 快  `
+`快点!  `
+``Move out, go on.  `
+`Move!`  `
 快走 快走 快走  
 `Go, go, go.`  
 快跑 快跑! 大家快走  
@@ -4190,14 +4190,14 @@
 `Let's go, come on.`  
 嘿 你要去哪里?  
 `Hey, where you going?`  
-- 不 不 不 停下 停下  
-- 你去哪里?  
-`- No, no, no. Stop, stop, stop.  
-- Where you going?`  
-- 别走  
-- 别把汽车人丢下  
-`- Don't leave.  
-- Never leave a bro behind.`  
+`不 不 不 停下 停下  `
+`你去哪里?  `
+``No, no, no. Stop, stop, stop.  `
+`Where you going?`  `
+`别走  `
+`别把汽车人丢下  `
+``Don't leave.  `
+`Never leave a bro behind.`  `
 啊 震荡波来了  
 `Aw, Shockwaves coming.`  
 到楼梯那里去  
@@ -4220,10 +4220,10 @@
 `We jump.`  
 一号遭到攻击  
 `Hot air. Attack on one now.`  
-- 估计他活不了了  
-- 求救 求救  
-`- Man I don't think he's going to make it.  
-- Mayday, mayday.`  
+`估计他活不了了  `
+`求救 求救  `
+``Man I don't think he's going to make it.  `
+`Mayday, mayday.`  `
 一号机坠落  
 `Chopper one going down.`  
 快 快 快  
@@ -4320,10 +4320,10 @@
 `I'm having a heart attack anyway.`  
 大厦要倒了  
 `The building is going over.`  
-- 坚持住  
-- 找掩护  
-`- Hang on.  
-- Take cover.`  
+`坚持住  `
+`找掩护  `
+``Hang on.  `
+`Take cover.`  `
 没关系 停住了  
 `It's okay, it's done.`  
 伙计们 快看  
@@ -4472,10 +4472,10 @@
 `Sam!`  
 雷尼克斯 你得救救萨姆  
 `Lennox you've got to save, Sam.`  
-- 你一定要救他  
-- 他在做什么?  
-`- You've got to save him.  
-- What is he doing?`  
+`你一定要救他  `
+`他在做什么?  `
+``You've got to save him.  `
+`What is he doing?`  `
 这个最好能用  
 `This better work.`  
 噢 我看不见了 看不见了  
@@ -4484,10 +4484,10 @@
 `Sam,take my hand.`  
 把线剪断 把线剪断 不是那样  
 `Cut the line, cut the line. Not that much.`  
-- 我在试  
-- 快剪线  
-`- I'm trying.  
-- The line.`  
+`我在试  `
+`快剪线  `
+``I'm trying.  `
+`The line.`  `
 你们这些人类  
 `You humans.`  
 炸弹还有20秒就要爆炸了  
@@ -4572,10 +4572,10 @@
 `Got ten manned navy seal element sir,`  
 要为战斧导弹标明目标  
 `and just charging in Tomahawks.`  
-- 还要多久?  
-- 15分钟  
-`- How long?  
-- Fifteen.`  
+`还要多久?  `
+`15分钟  `
+``How long?  `
+`Fifteen.`  `
 别紧张  
 `Take it easy.`  
 放开我  
@@ -4696,10 +4696,10 @@
 `We did it Brains. We did it.`  
 把这艘飞船斯成碎片  
 `Rip this ship apart.`  
-- 我们... 我们干得可真漂亮 就我和你  
-- 没错  
-`- We... we had a nice run Brains, you and me.  
-- Yeah.`  
+`我们... 我们干得可真漂亮 就我和你  `
+`没错  `
+``We... we had a nice run Brains, you and me.  `
+`Yeah.`  `
 我们会死的  
 `We're gonna die.`  
 好了 伙计们 跟我们走  
@@ -4744,10 +4744,10 @@
 `Go!`  
 好了 干得漂亮  
 `All right, good job.`  
-- 是啊  
-- 开火!  
-`- Yes.  
-- Fire!`  
+`是啊  `
+`开火!  `
+``Yes.  `
+`Fire!`  `
 我们打中他了  
 `We got him.`  
 是啊  
@@ -4790,16 +4790,16 @@
 `Then you'll have to go through me.`  
 好 我去帮你  
 `Okay, I got to help.`  
-- 不 别去  
-- 现在听我说  
-`- No, you don't.  
-- Listen to me now.`  
+`不 别去  `
+`现在听我说  `
+``No, you don't.  `
+`Listen to me now.`  `
 你会没事的  
 `You're gonna be fine.`  
-- 你答应过的  
-- 你会没事的 我保证  
-`- You promised.  
-- You're going to be fine.`  
+`你答应过的  `
+`你会没事的 我保证  `
+``You promised.  `
+`You're going to be fine.`  `
 我要去能量柱那边  
 `I gotta get to that pillar.`  
 保护能量柱  
@@ -4836,22 +4836,22 @@
 `Evan, ten seconds Tomahawks close.`  
 利维四号 重复 重复 14250  
 `Fourth levi, echo echo 1 4 2 5 zero,`  
-- 发现表面接触  
-- 查询身份  
-`- Found surface contact.  
-- Got an ID.`  
+`发现表面接触  `
+`查询身份  `
+``Found surface contact.  `
+`Got an ID.`  `
 捕获目标  
 `Target acquired.`  
 迪兰啊!  
 `Dylan!`  
-- 对  
-- 不!  
-`- Right.  
-- No!`  
-- 该死  
-- 迪兰  
-`- Shit.  
-- Dylan.`  
+`对  `
+`不!  `
+``Right.  `
+`No!`  `
+`该死  `
+`迪兰  `
+``Shit.  `
+`Dylan.`  `
 住手 住手  
 ` Stop, stop.`  
 不  
@@ -4870,10 +4870,10 @@
 `At last.`  
 哦 你是来投降的吗?  
 `Oh, have you come to surrender?`  
-- 这一切都值得吗?  
-- 当然值得  
-`- Was it all worth it?  
-- Obviously.`  
+`这一切都值得吗?  `
+`当然值得  `
+``Was it all worth it?  `
+`Obviously.`  `
 你费尽周折 只是为了将御天敌救活  
 `All your work to bring Sentinel back.`  
 但显然 现在一切都由他说了算  
@@ -4936,10 +4936,10 @@
 `It's still connected.`  
 看着 等等  
 `Watch, wait up.`  
-- 大黄蜂!  
-- 快走 快走 快点吧  
-`- B!  
-- Get going, get going. Let's move it.`  
+`大黄蜂!  `
+`快走 快走 快点吧  `
+``B!  `
+`Get going, get going. Let's move it.`  `
 哦 传输没有中断  
 `Oh it's still connected.`  
 我们一起瞄准它开火  
@@ -5000,10 +5000,10 @@
 `In any war.`  
 结束后都有片刻安宁  
 `There are calms, between storms.`  
-- 你们很勇猛  
-- 也许某天 我们会失去信仰  
-`- You fought bravely.  
-- There will be days when we loose faith.`  
+`你们很勇猛  `
+`也许某天 我们会失去信仰  `
+``You fought bravely.  `
+`There will be days when we loose faith.`  `
 也许某天 朋友会背叛我们  
 `Days when our allies turn against us.`  
 但我们放弃这座星球  
@@ -5027,10 +5027,10 @@
 `That's what I called such a beautiful future`  
 逮捕他  
 `Arrest him`  
-- 这根本不值得  
-- 把他带走  
-`- It's worthy it  
-- Get him out of here`  
+`这根本不值得  `
+`把他带走  `
+``It's worthy it  `
+`Get him out of here`  `
 我就想进"监狱" 夏洛特 我不在乎  
 `I just got her for the love. I don't care.`  
 把我关进去吧  
@@ -5051,7 +5051,7 @@
   
 Shannon.香凝 压制  
   
--=圣城家园 CnSCG 荣誉出品=-  
+-=圣城家园 CnSCG 荣誉出品=` `
 `HD.CnSCG.Com`  
 派拉蒙影业  
 维亚康姆旗下公司  
@@ -5278,14 +5278,14 @@ F22"猛禽"重型隐身战斗机
 群，身形较小，动作敏捷。但此集死的很  
 窝囊...  
   
----  
+--` `
 ;本字幕文件用 SrtEdit MPC播放版 Version 5.2 编辑制作  
 ;Unicode SrtEdit Copyright(C) 2005-2009 袁卫国  
 Shannon.香凝 特效字幕制作  
   
--=圣城家园 CnSCG 荣誉出品=-  
+-=圣城家园 CnSCG 荣誉出品=` `
 `HD.CnSCG.Com`  
--=圣城家园SCG字幕组 http://hd.cnscg.com/=-  
+-=圣城家园SCG字幕组 http://hd.cnscg.com/=` `
   
 协调: 兜兜  
 校对: 桃茜茜 柚子茶 影子  
