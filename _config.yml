@@ -16,10 +16,4 @@ permalink: /:short_year:i_month:i_day:title
 show_excerpts: True
 
 
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true
-
 
