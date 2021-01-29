@@ -16,10 +16,6 @@ permalink: /:short_year:i_month:i_day:title
 show_excerpts: True
 
 
-plugins: [jekyll-paginate]
-paginate_path: "/blog/page:num/"
-paginate: 5
-
 defaults:
   - scope:
       path: "assets/img"
