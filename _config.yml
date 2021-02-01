@@ -52,17 +52,17 @@ sass:
 # Navigation buttons
 nav:
   - {title: 主页, description: blog, url: '/'}
-  - {title: 目录, description: tages, url: '/tags/'}    
-  - {title: 存档, description: archive, url: '/archive/'}    
+  - {title: 目录, description: contents, url: '/contents/'}     
   - {title: 关于, description: about, url: '/about/'}         
 
 # Categories
-categs:
-  - {title: J, description: 日志, url: '/journal/'}
-  - {title: E, description: 随笔,url: '/essay/'}
-  - {title: R, description: 评论,url: '/review/'}
-  - {title: P, description: 诗歌,url: '/poetry/'}
-  - {title: S, description: 故事,url: '/story/'}
+contens:
+  - {title: 碎言一点         , description: 碎言一点  ,url: '/syyd/'    ,path: 'talkabit'}
+  - {title: 网络程序设计   , description: 网络程序设计 , url: '/wlcxsj/'  ,path: 'wlcxsj'}
+  - {title: 数据挖掘      , description: 数据挖掘     ,url: '/sjwj/'    ,path: 'psjwj'}
+  - {title: 读书笔记      , description: 读书笔记     , url: '/rmk/'    ,path: 'rmk'}  
+  - {title: 随笔         , description: 随笔        ,url: '/essay/'     ,path: 'essay'}
+
 
 # Plugins
 plugins: [jekyll-paginate-v2, jekyll-sitemap, jekyll-algolia]
