@@ -1,3 +1,6 @@
+---
+layout: post
+---
 我们曾是一个和平的智能机械体种族  
 `We were once a peaceful race of intelligent mechanical beings.`  
 接着 战争爆发了  
