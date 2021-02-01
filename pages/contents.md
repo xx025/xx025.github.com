@@ -5,11 +5,6 @@ group: navigation
 permalink: /contents/
 ---
 
-### 目录
-{:#tag-index}
-
---------
-
 
 
 <!-- <div>
@@ -22,6 +17,7 @@ permalink: /contents/
 </div> -->
 
 
+### 目录
 
 {% for categ in site.contens %}
 
@@ -35,7 +31,7 @@ permalink: /contents/
 
 ---
 
-[存档]({{relative_url}}/archive/)
+### [存档]({{relative_url}}/archive/)
 
 
 
