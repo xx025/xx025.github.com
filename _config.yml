@@ -1,19 +1,107 @@
-title: Onebit
-titleico: 
-email: mail@loefairy.top
-author: 💂‍♂️XX025
-description: >- # this means to ignore newlines until "baseurl:"
-  你才是那个穿越熊熊大火冲出这里的人《当你像鸟飞往你的山》
-baseurl: ""
-url: ""
-github_username: xx025
-weibo_username: xx052
-weibo_username_id: "rmrb"
-theme: minima
-plugins:
-  - jekyll-feed
-permalink: /:short_year:i_month:i_day:title
-show_excerpts: True
+# Basic
+title: loefairy
+author: xx025
+url: https://loefairy.top
+timezone: Asia/Shanghai
 
+# SEO
+keywords: [日常学习,碎言一点, 读书笔记, 永远追求自由]
+description: 你才是那个穿越熊熊大火冲出这里的人
 
+# Social
+social:
+  twitter: xx025
+  weibo: rmrb
+  youtube: xx025
 
+# Google
+google: 
+  analytics: /*******
+  site_verification: /*******
+
+# Leancloud used for Valine
+leancloud: 
+  appid: /*******
+  appkey: /*******
+
+# disqus
+# disqus_js: https://juby.disqus.com/embed.js
+# OpenGraph & TwitterCard
+card: /images/tcard.png
+
+# ---------------------上面信息改为自己的-------------------------
+# 
+#          jekyll文档参考: https://jekyllrb.com/docs/
+#
+# ---------------------下面信息视情况更改-------------------------
+
+# Permalink
+permalink: '/:year/:month/:title/'
+
+# Format
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Navigation buttons
+nav:
+  - {title: 主页, description: blog, url: '/'}
+  - {title: 存档, description: archive, url: '/archive/'}   
+  - {title: 读书, description: read, url: '/book/'}
+  - {title: 留言, description: guestbook, url: '/guestbook/'}      
+  - {title: 关于, description: about, url: '/about/'}         
+
+# Categories
+categs:
+  - {title: J, description: 日志, url: '/journal/'}
+  - {title: E, description: 随笔,url: '/essay/'}
+  - {title: R, description: 评论,url: '/review/'}
+  - {title: P, description: 诗歌,url: '/poetry/'}
+  - {title: S, description: 故事,url: '/story/'}
+
+# Plugins
+plugins: [jekyll-paginate-v2, jekyll-sitemap, jekyll-algolia]
+
+# Pagination
+pagination:
+  enabled: true
+  per_page: 9
+  permalink: '/page/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+# autopage_tags
+autopages:
+  enabled: true
+  categories: 
+    enabled: false
+  collections:
+    enabled: false
+  tags:
+    enabled: true
+    layouts: 
+      - 'autopage_tags.html'
+    title: '標籤 - :tag'
+    permalink: '/tags/:tag'
+
+# algolia search
+algolia:
+  application_id: XTX1EOVMI5
+  index_name: jubeny
+  search_only_api_key: c05381f747c5207b6dd655ca29e18fce
+
+# Increase jekyll build speed
+exclude: [Gemfile, Gemfile.lock, README.md]
+keep_files: [images]
+incrumental: true
+
+# Redirect
+include: [_redirects]

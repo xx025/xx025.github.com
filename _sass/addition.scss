@@ -1,0 +1,506 @@
+// 文本折叠
+details {
+  p {
+    font-family: $quote-font;
+    color: $sub-font-color;
+    padding: 1em;
+    border-radius: 5px;
+    background: $background-color;
+  }
+}
+
+summary {
+  display: inline-block;
+  margin: 3px auto;
+  cursor: pointer;
+  color: $sub-link-color;
+  border-bottom: 1px solid $link-color;
+
+  &:after {
+    content: url("https://cdn.jsdelivr.net/gh/jubyshu/nagisaao/images/feather.svg");
+    padding-left: 2px;
+  }
+
+  &::-webkit-details-marker {
+    display: none;
+  }
+}
+
+details[open] {
+  > summary {
+    border-bottom: none;
+  }
+}
+
+// 返回顶部按钮
+#back-top {
+  a {
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+    display: block;
+    border: 1px solid $border-color;
+    border-radius: 50%;
+    height: 36px;
+    width: 36px;
+    background-color: #fff;
+    text-align: center;
+  }
+}
+
+#arrow {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-top: 2px solid #606060;
+  border-right: 2px solid #606060;
+  transform: rotate(-45deg);
+  margin: 14px 10.5px;
+}
+
+// 脚注
+sup {
+  a {
+    font-size: 0.7em;
+    line-height: 0;
+    vertical-align: text-top;
+    position: relative;
+    bottom: -0.1em;
+    text-decoration: none;
+    border-bottom: none !important;
+
+    &:before {
+      content: "[";
+      color: $link-color;
+    }
+
+    &:after {
+      content: "]";
+      color: $link-color;
+    }
+  }
+}
+
+.footnotes {
+  font-size: 0.8em;
+  color: #999;
+  margin-top: 25px;
+  padding-top: 10px;
+
+  &:before {
+    display: block;
+    content: "";
+    border-top: 0.6px solid $border-color;
+    width: 5%;
+    margin-bottom: 7px;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+// 目录
+.post-toc {
+  visibility: hidden;
+  position: fixed;
+  display: block;
+  right: 50px;
+  top: 170px;
+  padding: 5px;
+  width: 210px;
+  max-width: 210px;
+  background: #f6f6f6; //#3c3c3c;
+  border-radius: 3px;
+
+  ol,
+  ul {
+    margin-left: 1em;
+  }
+
+  li {
+    list-style-position: inside;
+    list-style-type: none;
+    margin: auto 5px;
+
+    a {
+      color: $sub-font-color;
+      font-size: 0.9em;
+
+      &.active {
+        color: $hover-color;
+      }
+    }
+  }
+
+  &:before {
+    display: block;
+    content: "TOC";
+    margin: 5px;
+    font-size: 1.1em;
+  }
+}
+
+// YouTube
+.ytb-container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+
+.ytb-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+// Post Achive
+.post_count {
+  color: $sub-font-color;
+  font-size: 0.8em;
+  vertical-align: text-bottom;
+}
+
+.post_num {
+  color: $hover-color;
+}
+
+// Category
+.index-meta {
+  margin-top: -40px;
+}
+
+.category {
+  float: right;
+  font-size: 0.8em;
+
+  li {
+    display: inline;
+  }
+}
+
+.search-icon {
+  float: left;
+
+  a {
+    color: $hover-color;
+  }
+}
+
+.tag_box {
+  margin: 0;
+
+  li {
+    display: inline;
+    margin-right: 10px;
+  }
+}
+
+.collcontent {
+  display: none;
+}
+
+.collapsible {
+  cursor: default;
+}
+
+// post figure
+.post-figcaption {
+  position: relative;
+  display: none;
+  color: $sub-link-color;
+  margin-bottom: 1em;
+  font-size: 0.9em;
+  text-align: center;
+}
+
+// algolia search
+#search-searchbar {
+  .ais-search-box {
+    max-width: 100%;
+    height: 35px;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+
+  .ais-search-box--powered-by {
+    margin-top: 10px;
+    font-size: 0.8em;
+    color: $meta-color;
+  }
+
+  .ais-search-box--input {
+    background: $page-color;
+    color: $font-color;
+    border: $page-color;
+    line-height: 150%;
+  }
+}
+
+.post-item {
+  margin-bottom: 30px;
+  // padding-left: 15px;
+  // border-left: 2px solid $hover-color;
+}
+
+.post-link .ais-Highlight {
+  background: #f7d94c;
+  font-style: normal;
+}
+
+.post-breadcrumbs {
+  color: #424242;
+  display: block;
+}
+
+.post-breadcrumb {
+  font-size: 1.1em;
+  color: $font-color;
+}
+
+.post-breadcrumb .ais-Highlight {
+  background: #f7d94c;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.post-snippet .ais-Highlight {
+  background: #f7d94c;
+  font-style: normal;
+  font-weight: bold;
+  color: $sub-link-color;
+}
+
+.post-snippet img {
+  display: none;
+}
+
+#search-hits {
+  display: none;
+
+  h2 {
+    font-size: 1.2em;
+  }
+
+  h3 {
+    font-size: 1em;
+  }
+}
+
+// Gist
+.gist {
+  max-width: 720px;
+
+  th,
+  td {
+    border: none;
+  }
+
+  tbody tr:nth-child(2n) {
+    background: none;
+  }
+
+  .blob-wrapper {
+    background: #f5f2f0;
+  }
+
+  .highlight {
+    background: #f5f2f0 !important;
+  }
+}
+
+.gist-file .gist-data {
+  max-height: 360px;
+}
+
+.post-tags {
+  font-size: 0.85em;
+  margin-top: 2em;
+
+  ul {
+    margin: 0;
+
+    li {
+      display: inline;
+      list-style: none;
+      margin-right: 1em;
+    }
+  }
+}
+
+#gitlab-gist.gitlab-embed-snippets {
+  margin: 0;
+
+  a {
+    border-bottom: none;
+  }
+
+  .line-numbers {
+    display: none;
+  }
+
+  .blob-content {
+    width: 100%;
+    max-height: 360px;
+
+    pre {
+      font-size: 0.95em;
+      border-left: none;
+      padding: 0 1em;
+      background-color: #f5f2f0;
+    }
+
+    code {
+      padding: 0;
+      margin: 0;
+    }
+  }
+
+  .file-title-flex-parent {
+    padding: 3px 1em;
+    font-size: 0.9em;
+
+    .file-header-content {
+      .gl-snippet-icon {
+        display: none;
+      }
+    }
+  }
+
+  .btn-group a.btn {
+    background-color: #fafafa;
+    border: none;
+
+    &:last-child {
+      border-right: none;
+    }
+  }
+}
+
+// MailChimp Form Embed Code - Horizontal Super Slim - 12/16/2015 v10.7
+// Adapted from: http://blog.heyimcat.com/universal-signup-form/
+#mc_embed_signup form {
+  text-align: center;
+  padding: 10px 0 10px 0;
+}
+.mc-field-group {
+  display: inline-block;
+} 
+#mc_embed_signup input.email {
+  font-size: 14px;
+  border: 1px solid #abb0b2;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  color: #343434;
+  background-color: #fff;
+  box-sizing: border-box;
+  height: 32px;
+  padding: 0px 0.4em;
+  display: inline-block;
+  margin: 0;
+  width: 350px;
+  vertical-align: top;
+}
+#mc_embed_signup label {
+  display: block;
+  font-size: 16px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+#mc_embed_signup .clear {
+  display: inline-block;
+} 
+#mc_embed_signup .button {
+  font-size: 13px;
+  border: none;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  letter-spacing: 0.03em;
+  color: #fff;
+  background-color: #aaa;
+  box-sizing: border-box;
+  height: 32px;
+  line-height: 32px;
+  padding: 0 18px;
+  display: inline-block;
+  margin: 0;
+  transition: all 0.23s ease-in-out 0s;
+}
+#mc_embed_signup .button:hover {
+  background-color: #777;
+  cursor: pointer;
+}
+#mc_embed_signup div#mce-responses {
+  float: left;
+  top: -1.4em;
+  padding: 0em 0.5em 0em 0.5em;
+  overflow: hidden;
+  width: 90%;
+  margin: 0 5%;
+  clear: both;
+}
+#mc_embed_signup div.response {
+  margin: 1em 0;
+  padding: 1em 0.5em 0.5em 0;
+  font-weight: bold;
+  float: left;
+  top: -1.5em;
+  z-index: 1;
+  width: 80%;
+}
+#mc_embed_signup #mce-error-response {
+  display: none;
+}
+#mc_embed_signup #mce-success-response {
+  color: #529214;
+  display: none;
+}
+#mc_embed_signup label.error {
+  display: block;
+  float: none;
+  width: auto;
+  margin-left: 1.05em;
+  text-align: left;
+  padding: 0.5em 0;
+}
+@media (max-width: 768px) {
+  #mc_embed_signup input.email {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+  #mc_embed_signup .clear {
+    display: block;
+    width: 100%;
+  }
+  #mc_embed_signup .button {
+    width: 100%;
+    margin: 0;
+  }
+}
+
+// mailchimp
+#mc_embed_signup {
+  background: #fcfcfc;
+  margin: 30px auto;
+  input.email {
+    background: #efefef;
+    color: $font-color;
+    border: 1px solid #efefef;
+    width: 100%;
+    max-width: 350px;
+  }
+  .button {
+    background: #a3a3a3;
+    color: #fcfcfc;
+    width: 100%;
+    max-width: 350px;
+    &:hover {
+      background: $link-color;
+    }
+  }
+}

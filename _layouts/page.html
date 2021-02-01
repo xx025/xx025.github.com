@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
-<article class="post">
-  <header class="post-header">
-    <h2 class="post-title">{{ page.title | escape }}</h2>
-  </header>
-  <div class="post-content">
+
+<article class="post-container post-container--single" itemscope itemtype="http://schema.org/BlogPosting">
+  <section class="post">
     {{ content }}
-  </div>
+  </section>
 </article>
