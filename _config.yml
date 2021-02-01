@@ -52,9 +52,8 @@ sass:
 # Navigation buttons
 nav:
   - {title: 主页, description: blog, url: '/'}
-  - {title: 存档, description: archive, url: '/archive/'}   
-  - {title: 读书, description: read, url: '/book/'}
-  - {title: 留言, description: guestbook, url: '/guestbook/'}      
+  - {title: 目录, description: tages, url: '/tags/'}    
+  - {title: 存档, description: archive, url: '/archive/'}    
   - {title: 关于, description: about, url: '/about/'}         
 
 # Categories
