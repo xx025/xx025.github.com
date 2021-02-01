@@ -88,14 +88,14 @@ autopages:
     enabled: true
     layouts: 
       - 'autopage_tags.html'
-    title: '標籤 - :tag'
+    title: '标签 - :tag'
     permalink: '/tags/:tag'
 
 # algolia search
 algolia:
-  application_id: XTX1EOVMI5
-  index_name: jubeny
-  search_only_api_key: c05381f747c5207b6dd655ca29e18fce
+  application_id: /*******
+  index_name: /*******
+  search_only_api_key: /*******
 
 # Increase jekyll build speed
 exclude: [Gemfile, Gemfile.lock, README.md]
