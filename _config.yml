@@ -14,15 +14,6 @@ social:
   weibo: rmrb
   youtube: xx025
 
-# Google
-google: 
-  analytics: /*******
-  site_verification: /*******
-
-# Leancloud used for Valine
-leancloud: 
-  appid: /*******
-  appkey: /*******
 
 # disqus
 # disqus_js: https://juby.disqus.com/embed.js
@@ -36,7 +27,7 @@ card: /images/tcard.png
 # ---------------------下面信息视情况更改-------------------------
 
 # Permalink
-permalink: '/:year/:month/:title/'
+permalink: '/:categories/:short_year:i_month:i_day:title'
 
 # Format
 markdown: kramdown
@@ -54,15 +45,6 @@ nav:
   - {title: 主页, description: blog, url: '/'}
   - {title: 目录, description: contents, url: '/contents/'}     
   - {title: 关于, description: about, url: '/about/'}         
-
-# Categories
-contens:
-  - {title: 碎言一点         , description: 碎言一点  ,url: '/syyd/'    ,path: 'talkabit'}
-  - {title: 网络程序设计   , description: 网络程序设计 , url: '/wlcxsj/'  ,path: 'wlcxsj'}
-  - {title: 数据挖掘      , description: 数据挖掘     ,url: '/sjwj/'    ,path: 'psjwj'}
-  - {title: 读书笔记      , description: 读书笔记     , url: '/rmk/'    ,path: 'rmk'}  
-  - {title: 随笔         , description: 随笔        ,url: '/essay/'     ,path: 'essay'}
-
 
 # Plugins
 plugins: [jekyll-paginate-v2, jekyll-sitemap, jekyll-algolia]
@@ -91,12 +73,6 @@ autopages:
     title: '标签 - :tag'
     permalink: '/tags/:tag'
 
-# algolia search
-algolia:
-  application_id: /*******
-  index_name: /*******
-  search_only_api_key: /*******
-
 # Increase jekyll build speed
 exclude: [Gemfile, Gemfile.lock, README.md]
 keep_files: [images]
@@ -104,3 +80,19 @@ incrumental: true
 
 # Redirect
 include: [_redirects]
+
+# algolia search
+algolia:
+  application_id: /*******
+  index_name: /*******
+  search_only_api_key: /*******
+
+# Leancloud used for Valine
+leancloud: 
+  appid: /*******
+  appkey: /*******
+
+# Google
+google: 
+  analytics: /*******
+  site_verification: /*******
