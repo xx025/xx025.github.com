@@ -6,25 +6,25 @@ permalink: /contents/
 ---
 
 ### 随笔 
-{{}}         
+{{''}}         
 {%- for post in site.categories.essay -%}
 {{ post.date | date: '%m-%d' }} &raquo; [{{ post.title }}]({{ post.url }})<br/>
 {%- endfor -%}
 ---
 ### 读书笔记      
-{{}}  
+{{''}}  
 {%- for post in site.categories.rmk -%}
 {{ post.date | date: '%m-%d' }} &raquo; [{{ post.title }}]({{ post.url }}) <br/>
 {%- endfor -%}
 ---
 ### 网络程序设计    
-{{}}
+{{''}}
 {%- for post in site.categories.sjwj -%}
 {{ post.date | date: '%m-%d' }} &raquo; [{{ post.title }}]({{ post.url }}) <br/> 
 {%- endfor -%}
 ---
 ### 数据挖掘
-{{}}  
+{{''}}  
 {%- for post in site.categories.sjwj -%}
 {{ post.date | date: '%m-%d' }} &raquo; [{{ post.title }}]({{ post.url }})  <br/>
 {%- endfor -%}

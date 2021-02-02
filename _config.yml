@@ -1,5 +1,5 @@
 # Basic
-title: loefairy
+title: loeFairy
 author: xx025
 url: https://loefairy.top
 timezone: Asia/Shanghai
@@ -43,35 +43,13 @@ sass:
 # Navigation buttons
 nav:
   - {title: 主页, description: blog, url: '/'}
-  - {title: 目录, description: contents, url: '/contents/'}     
-  - {title: 关于, description: about, url: '/about/'}         
+  - {title: 碎言一点, description: syyd, url: '/syyd/'} 
+  - {title: 文章目录, description: contents, url: '/contents/'}     
+  - {title: 关于, description: about, url: '/about/'}    
+        
 
 # Plugins
-plugins: [jekyll-paginate-v2, jekyll-sitemap, jekyll-algolia]
-
-# Pagination
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: '/page/:num/'
-  title: ':title'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-
-# autopage_tags
-autopages:
-  enabled: true
-  categories: 
-    enabled: false
-  collections:
-    enabled: false
-  tags:
-    enabled: true
-    layouts: 
-      - 'autopage_tags.html'
-    title: '标签 - :tag'
-    permalink: '/tags/:tag'
+plugins: [ jekyll-sitemap, jekyll-algolia]
 
 # Increase jekyll build speed
 exclude: [Gemfile, Gemfile.lock, README.md]
