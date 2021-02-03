@@ -44,9 +44,9 @@ sass:
 # Navigation buttons
 nav:
   - {title: 主页, description: blog, url: '/'}
-  - {title: 文章目录, description: contents, url: '/contents/'}  
-  - {title: 碎言一点, description: syyd, url: '/syyd/'}    
-  - {title: 观影记录, description: 观影记录, url: '/movie-record/'} 
+  - {title: 目录, description: contents, url: '/contents/'}  
+  - {title: 碎言, description: syyd, url: '/syyd/'}    
+  - {title: 观影, description: 观影记录, url: '/movie-record/'} 
   - {title: 关于, description: about, url: '/about/'}    
         
 
