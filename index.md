@@ -9,7 +9,7 @@ description: 你才是那个穿越熊熊大火冲出这里的人《当你像鸟�
   {% if i < 3 %}
   <div style ="box-shadow: 5px 5px 5px #ededed69; background-color: #f3f2f408; padding: 10px;margin-top: 10px;">
   <div class="post-list__meta">
-  <time datetime="{{post.date | date: date_to_xmlschema}}" class="post-list__date">{{post.date | date: date_to_xmlschema}}</time> 
+  <time datetime="{{post.date | date: date_to_xmlschema}}" class="post-list__date">{{ post.date | date: "%F" }}</time> 
   </div>
      {{post.content }} 
      </div>
