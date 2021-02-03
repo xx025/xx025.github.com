@@ -10,9 +10,10 @@ description: 你才是那个穿越熊熊大火冲出这里的人 —— 《当�
 
 # Social
 social:
-  twitter: xx025
+  twitter: pexels
   weibo: rmrb
   youtube: xx025
+  github: xx025
 
 
 # disqus
@@ -43,8 +44,8 @@ sass:
 # Navigation buttons
 nav:
   - {title: 主页, description: blog, url: '/'}
-  - {title: 碎言一点, description: syyd, url: '/syyd/'} 
-  - {title: 文章目录, description: contents, url: '/contents/'}     
+  - {title: 文章目录, description: contents, url: '/contents/'}  
+  - {title: 碎言一点, description: syyd, url: '/syyd/'}    
   - {title: 关于, description: about, url: '/about/'}    
         
 
