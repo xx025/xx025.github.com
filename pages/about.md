@@ -24,6 +24,9 @@ description: 你才是那个穿越熊熊大火冲出这里的人《当你像鸟�
 评论：leancloud.cn  
 搜索：algolia.com
 
+我还发现了一个比较酷的svg图标下载站：www.iconfont.cn  
+当前页脚使用的三个图标来自：[你看上去很美味得样子](https://www.iconfont.cn/user/detail?spm=a313x.7781069.1998910419.61 )
+
 ---
 
 
