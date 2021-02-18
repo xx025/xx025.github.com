@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-description: 你才是那个穿越熊熊大火冲出这里的人《当你像鸟飞往你的山》
+description:   我等了你四个夏天，你没有信守承诺，你再也没有回来。风筝死了，我将它埋葬在这里，谁知道呢，也许有一天你会找到它。
 --- 
 <section class="post">
 {% for post in site.posts %}
