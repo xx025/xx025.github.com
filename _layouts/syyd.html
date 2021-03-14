@@ -2,18 +2,14 @@
 layout: default
 ---
 
-<div class="main-post-list">
+<div class="post">
   <ol class="post-list">
     {% for post in site.categories.talkabit %}
     <li>
       <div class="post-list__meta">
         <time datetime="{{post.date | date: date_to_xmlschema}}" class="post-list__date">{{ post.date | date:  "%F"}}</time>
-      </div>
-      <p class="excerpt">
-        {{ post.content | markdownify | strip_html | strip_newlines | truncate: 100 }}&hellip;
-        <a style="color:#91989f;" href="{{ post.url }}"> 全文</a> 
-      </p>    
-      <hr class="post-list_divider" />
+      </div>     
+     {{ post.content }}
     </li>
     {% endfor %}
   </ol>

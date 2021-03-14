@@ -6,10 +6,13 @@ description:   我等了你四个夏天，你没有信守承诺，你再也没�
 <section class="post">
 {% for post in site.posts %}
  {% assign i = i | plus: 1 %}  
-  {% if i < 5 %}
-  <div style ="box-shadow: 5px 5px 5px #ededed69; background-color: #f3f2f408; padding: 10px;margin-top: 10px;">
+  {% if i < 2 %}
+  <h4>{{post.title }} </h4>
+  <div>
+  
   <div class="post-list__meta">
   <time datetime="{{post.date | date: date_to_xmlschema}}" class="post-list__date">{{ post.date | date: "%F" }}</time> 
+
   </div>
      {{post.content }} 
      </div>
@@ -19,4 +22,3 @@ description:   我等了你四个夏天，你没有信守承诺，你再也没�
 {%- endfor -%}
 </section>
 
-[更多]({{relative_url}}/syyd/)
