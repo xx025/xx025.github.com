@@ -11,27 +11,31 @@ description:   我等了你四个夏天，你没有信守承诺，你再也没�
         margin: 0px -30px
     }
 </style>
+
 <div class="headT">
     <div style="float: left">
         <p>碎言</p>
     </div>
+
+
     <div onclick="window.open('syyd','_self')" style=" float:right;; cursor: pointer;">
         <p>☞更多内容</p>
     </div>
 </div>
 
 <section class="post">
+
     {% for post in site.categories.talkabit %}
     {% assign i2 = i2 | plus: 1 %}
     {% if i2 < 2 %}
-
-    <div class="post-list__meta">
-        <time datetime="{{post.date | date: date_to_xmlschema}}" class="post-list__date">{{ post.date | date: "%F"
-            }}
-        </time>
+    <div>
+        <div class="post-list__meta">
+            <time datetime="{{post.date | date: date_to_xmlschema}}" class="post-list__date">{{ post.date | date: "%F"
+                }}
+            </time>
+        </div>
+        {{post.content }}
     </div>
-    {{post.content }}
-
     {% else %}
     {% break %}
     {% endif %}
