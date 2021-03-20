@@ -1,0 +1,43 @@
+---
+title: Home
+layout: home
+description:   我等了你四个夏天，你没有信守承诺，你再也没有回来。风筝死了，我将它埋葬在这里，谁知道呢，也许有一天你会找到它。
+---
+<div class="post" >
+    {% for post in site.categories.talkabit %}
+    {% assign i2 = i2 | plus: 1 %}
+    {% if i2 < 2 %}
+    <div>
+        <div class="post-list__meta">
+            <time datetime="{{post.date | date: date_to_xmlschema}}" class="post-list__date">{{ post.date | date: "%F"
+                }}
+            </time>
+        </div>
+        {{post.content }}
+    </div>
+    {% else %}
+    {% break %}
+    {% endif %}
+    {%- endfor -%}
+</div>
+<div style="border: 1px solid #e1e1e1 ;margin: 20px -30px "></div>
+<hr>
+<section class="post">
+    {% for post in site.categories.rmk %}
+    {% assign i = i | plus: 1 %}
+    {% if i < 2 %}
+    <h4>{{post.title }} </h4>
+    <div>
+        <div class="post-list__meta">
+            <time datetime="{{post.date | date: date_to_xmlschema}}" class="post-list__date">{{ post.date | date: "%F"
+                }}
+            </time>
+        </div>
+        {{post.content }}
+    </div>
+    {% else %}
+    {% break %}
+    {% endif %}
+    {%- endfor -%}
+</section>
+
