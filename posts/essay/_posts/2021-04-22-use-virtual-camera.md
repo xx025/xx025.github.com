@@ -14,6 +14,10 @@
 
 脚本：https://greasyfork.org/zh-CN/scripts/425335-lechuangxc
 
+附加：  
+   
+   HTML5视频变速(最高X16)：https://github.com/igrigorik/videospeed
+
 ---
 
 ### 进阶：
