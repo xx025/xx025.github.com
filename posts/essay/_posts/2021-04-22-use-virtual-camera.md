@@ -16,13 +16,15 @@
 
     chrome 配置默认相机（地址栏打开）：chrome://settings/content/camera
 
-    其他浏览器类似，设置页面搜索camera 或相机
+    其他浏览器类似，设置页面搜索camera 或摄像头
 
 
 2. 软件配置
 
 
     OBS配置可能比较复杂建议使用manyCam
+
+    OBS配置参考：https://tieba.baidu.com/p/6707071068
 
 
 3. 调试
