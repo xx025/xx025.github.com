@@ -8,8 +8,15 @@
     等等。。（有一款国内开发的也很好用，忘记名字了）
 
 
+---
+
+油猴插件：https://www.tampermonkey.net/
+
+脚本：https://greasyfork.org/zh-CN/scripts/425335-lechuangxc
 
 ---
+
+### 进阶：
 
 1. 默认相机
 
@@ -25,6 +32,8 @@
     OBS配置可能比较复杂建议使用manyCam
 
     OBS配置参考：https://tieba.baidu.com/p/6707071068
+
+    else,可能需要在【设备管理器】暂时禁用系统相机
 
 
 3. 调试
