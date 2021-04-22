@@ -29,11 +29,16 @@
 2. 软件配置
 
 
-    OBS配置可能比较复杂建议使用manyCam
+    1. OBS配置可能比较复杂建议使用manyCam
 
-    OBS配置参考：https://tieba.baidu.com/p/6707071068
+    2. OBS比较强大但配置复杂
+     
+        OBS配置参考：  
+            1. https://tieba.baidu.com/p/6707071068  
+            2. https://www.bilibili.com/read/cv6583793
 
-    else,可能需要在【设备管理器】暂时禁用系统相机
+
+    3. 可能需要在【设备管理器】暂时禁用系统相机
 
 
 3. 调试
