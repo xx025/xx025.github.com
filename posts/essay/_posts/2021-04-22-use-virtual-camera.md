@@ -32,6 +32,8 @@
     1. OBS配置可能比较复杂建议使用manyCam
 
     2. OBS比较强大但配置复杂
+    
+        OBS支持多种媒体格式也支持各种高阶设置
      
         OBS配置参考：  
             1. https://tieba.baidu.com/p/6707071068  
