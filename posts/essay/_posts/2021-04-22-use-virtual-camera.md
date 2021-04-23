@@ -1,4 +1,15 @@
 
+
+
+
+ManyCam: https://manycam.com/
+油猴插件：https://www.tampermonkey.net/
+
+脚本：https://greasyfork.org/zh-CN/scripts/398362-lechuangxc
+
+
+---
+
 1. 可使用软件（免费or付费）：
 
    【推荐】 manycam:    https://manycam.com/  
@@ -7,16 +18,6 @@
 
     等等。。（有一款国内开发的也很好用，忘记名字了）
 
-
----
-
-油猴插件：https://www.tampermonkey.net/
-
-脚本：https://greasyfork.org/zh-CN/scripts/425335-lechuangxc
-
-附加：  
-   
-   HTML5视频变速(最高X16)：https://github.com/igrigorik/videospeed
 
 ---
 
@@ -119,6 +120,10 @@
     </body>
 
     ```
+
+附加：  
+   
+   HTML5视频变速(最高X16)：https://github.com/igrigorik/videospeed
 
 
     
