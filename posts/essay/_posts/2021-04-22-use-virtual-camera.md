@@ -1,27 +1,58 @@
 
 
 
+1. 安装Edge(大概率电脑自带了)\火狐或chrome等任意一款浏览器 \
 
-ManyCam: https://manycam.com/
-油猴插件：https://www.tampermonkey.net/
+    **原则上除下图以外的都可以**
 
-脚本：https://greasyfork.org/zh-CN/scripts/398362-lechuangxc
+    **如果安装了就进行第二步**
+
+    ![](https://cdn.jsdelivr.net/gh/xx025/cloudimg@master/img/20210424064841.png)
+
+2. 安装虚拟相机ManyCam: [官网](https://manycam.com/) \ [下载](https://download3.manycams.com/installer/ManyCamSetup.exe)
+
+    1. 安装完之后将一张大头照设置为虚拟摄像头显示内容
+
+    2. <font color="#dd0000">安装完请先进去课程观看页观看是否设置成功</font> 
+
+    ![](https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20190127104712900.jpg)
+
+
+
+3. 安装 [油猴插件Tampermonkey](https://www.tampermonkey.net/) 
+    
+    \ 有替代品，个人推荐，更多见 [Greasfork官网](https://greasyfork.org/zh-CN)
+
+    支持浏览器：Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。\
+
+    ![](https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/2021-04-24_07-01-02.png)
+
+
+
+
+4. [安装脚本](https://greasyfork.org/zh-CN/scripts/398362-lechuangxc)
+
+
+    最后一步啦：[安装脚本](https://greasyfork.org/zh-CN/scripts/398362-lechuangxc)
+
+    ![](https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210424070254.png)
+
+5. <font color="green">如果第二步没问题，那么一切就绪，只需登录打开点击一个视频播放，剩下的事情全部交给JavaScript脚本完成</font>
 
 
 ---
 
+# 进阶：
+
 1. 可使用软件（免费or付费）：
 
-   【推荐】 manycam:    https://manycam.com/  
+   【推荐，简洁易操作】 manycam:    https://manycam.com/  
 
-    OBS Studio:     https://obsproject.com/
+    【功能强大】OBS Studio:     https://obsproject.com/
 
     等等。。（有一款国内开发的也很好用，忘记名字了）
 
 
----
-
-### 进阶：
 
 1. 默认相机
 
