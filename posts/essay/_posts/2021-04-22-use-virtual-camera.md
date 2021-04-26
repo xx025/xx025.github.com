@@ -7,7 +7,8 @@
 
     **如果安装了就进行第二步**
 
-    ![](https://cdn.jsdelivr.net/gh/xx025/cloudimg@master/img/20210424064841.png)
+    ![](https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210426140546.png)
+
 
 2. 安装虚拟相机ManyCam: [官网](https://manycam.com/) \ [下载](https://download3.manycams.com/installer/ManyCamSetup.exe)
 
@@ -15,7 +16,8 @@
 
     2. <font color="#dd0000">安装完请先进去课程观看页观看是否设置成功</font> 
 
-    ![](https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20190127104712900.jpg)
+    ![](https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210426140437.png)
+
 
 
 
