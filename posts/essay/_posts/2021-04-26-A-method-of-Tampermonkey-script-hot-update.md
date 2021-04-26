@@ -7,7 +7,7 @@
 
 较为简单的我们可以使用`@require`属性,这样脚本每次执行的时候我们都会向其指向的地址请求外部资源。和这种方法类似的还用另一种小技巧来实现,就是每次脚本执行只做一件事情，就是向html head 标签中插入一个新的`<script >` 标签,指向一个外部资源地址（同时这种方法还可以用于脚本开发的本地测试，<font color="#dd0000">和绕过GreasyFork的require安全限制</font>）。
 
-上面的两种方案都有一个不好的地方——缓存的存在使得浏览器可能并不及时请求新的脚本资源。这样我们就有了新的小技巧，这种小技巧可以用在插入`<script>`标签这中方法。我们可以为请求地址加上一个参数就比如
+上面的两种方案都有一个不好的地方——缓存的存在使得浏览器可能并不及时请求新的脚本资源。这样我们就有了新的小技巧，这种小技巧就是在插入`<script>`标签scr地址加上一个参数就比如
 ```js
 <script type="text/javascript" src="url?动态的参数"></script>
 ```
@@ -15,14 +15,15 @@
 通过这种设置就解决了浏览器缓存的问题，实现油猴脚本每次都请求新的脚本。
 
 至于用于热更新脚本的存储地址，我知道的可以选择的有GresyFork提供的库功能(去掉版本号即可)，也可以存储在github上使用jsDelivr 提供的CDN加速（但jsDelivr不能提供及时的更新有可能最高长达24小时的更新时延，建议选择前一种，这样间接的又没有违反GreasyFork安全限制）
-```
+
+```js
 jsdelivr链接写法：https://cdn.jsdelivr.net/gh/用户名/库名@main/路径/xx.js
 greasfork连接写法：https://greasyfork.org/scripts/xxx/code/xxx.js[把官方提供的删掉版本号即可]
 ```
 
 一个例子：
 
-```
+```js
 // ==UserScript==
 // @name         new
 // @namespace    http://tampermonkey.net/
