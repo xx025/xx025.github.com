@@ -1,5 +1,7 @@
 
 
+**如需远程协助请安装ToDesk：[ToDesk官网](https://www.todesk.com/)**
+
 
 1. 安装Edge(大概率电脑自带了)\火狐或chrome等任意一款浏览器 \
 
