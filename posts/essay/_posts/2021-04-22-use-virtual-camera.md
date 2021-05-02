@@ -1,5 +1,7 @@
 
 
+## 基本问题处理
+
 1. **如需远程协助请安装ToDesk：[ToDesk官网](https://www.todesk.com/)**
 
 2. **如果您不具备安装和使用一款软件的基本能力，本人不建议使用**
@@ -7,7 +9,7 @@
 3. **[浏览器清除历史记录](http://url.loefairy.top/8)**
 
 
----
+## 安装步骤
 
 1. 安装Edge(大概率电脑自带了)\火狐或chrome等任意一款浏览器 \
 
@@ -50,7 +52,9 @@
 5. <font color="green">如果第二步没问题，那么一切就绪，只需登录打开点击一个视频播放，剩下的事情全部交给JavaScript脚本完成</font>
 
 
----
+
+
+
 
 # 进阶：
 
@@ -162,9 +166,8 @@
 
     ```
 
-附加：  
-   
-   HTML5视频变速(最高X16)：https://github.com/igrigorik/videospeed
+
+4.   HTML5视频变速(最高X16)：https://github.com/igrigorik/videospeed
 
 
     
