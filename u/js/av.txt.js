@@ -2,19 +2,22 @@ function name() {
     let phone = prompt("输入手机号");
     if (phone != null) {
         if (phone.length == 11) {
-            let id = (phone - 12999999997) * 2
 
-            let acvcode = prompt("输入激活码,激活码联系微信:wandouled\n\n使用乐创空间刷课脚本的同学激活码还是原来的激活码\n\n未使用的请加微信好友发红包两元并提供此id:" + id);
-            if (acvcode / 2 + 12797979797 == phone) {
-                return true;
+            let acvcode = prompt("\n输入激活码,没有激活码点击取消");
+            if (acvcode != null) {
+                if (acvcode / 2 + 12797979797 == phone) {
+                    return true;
+                } else {
+                    location.href = "https://www.loefairy.top/u/xca.html?" + phone;
+                }
             } else {
-                location.reload();
+                location.href = "https://www.loefairy.top/u/xca.html?" + phone;
             }
         } else {
-            location.reload();
+            location.reload()
         }
     } else {
-        location.reload();
+        location.reload()
     }
 }
 name()
