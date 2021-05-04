@@ -1,0 +1,74 @@
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+    <style>
+        table {
+            padding-top: 10%;
+            margin: auto;
+            border: #2a6ea9 solid 2px;
+            width: auto;
+            font-size: 26px;
+
+            text-align: center;
+
+        }
+
+        img {
+            height: 300px;
+            width: auto;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <table>
+        <tr>
+            <td id="kkkkkk"></td>
+        </tr>
+
+        <tr>
+            <th>微信打赏</th>
+
+        </tr>
+        <tr>
+
+            <td><img src="https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210504113306.png" alt="微信"></td>
+
+        </tr>
+        <tr>
+            <th>加微信</th>
+        </tr>
+        <tr>
+
+            <td><img src="https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210503122055.jpg" alt="加微信"></td>
+        </tr>
+        <tr>
+            <td>
+                <br>
+                <p>打赏获得激活码</p>
+                <p id="idcode"></p>
+                <p style="color: red;">打赏之后加微信请直接发送“个人识别码”和“打赏订单截图”</p>
+            </td>
+        </tr>
+    </table>
+    <script>
+        function GetRequest() {
+            var url = location.search; //获取url中"?"符后的字串
+            var theRequest = 0;
+            var str = 0;
+            if (url.indexOf("?") != -1) {
+                str = url.substr(1);
+
+            }
+            return str;
+        }
+        (function () {
+            let id = (GetRequest() - 12999999997) * 2;
+            console.log(GetRequest())
+            document.querySelector("#idcode").innerHTML = "您的个人识别码：" + id;
+            document.querySelector("#kkkkkk").innerHTML = "您输入的激活码不正确，或未输入激活码";
+        }());
+    </script>
+</body>
