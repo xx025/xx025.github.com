@@ -22,13 +22,13 @@
 
     <table>
         <tr>
-            <th>微信打赏8.88</th>
-            <th>支付宝打赏9.99</th>
+            <th>微信打赏</th>
+            <th>支付宝打赏</th>
             <th>加微信</th>
         </tr>
         <tr>
-            <td><img src="https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210505162156.png" alt="微信"></td>
-            <td><img src="https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210505162535.jpg" alt="微信"></td>
+            <td id="paywx"></td>
+            <td id="payzfb"></td>
             <td><img src="https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210503122055.jpg" alt="加微信"></td>
         </tr>
         <tr>
@@ -47,4 +47,24 @@
             </td>
         </tr>
     </table>
+    <script>
+        function ranpay() {
+            let wxpay666 = 'https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210505171501.png';
+            let wxpay888 = 'https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210505162156.png';
+            let zfbpay888 = 'https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210503122946.jpg';
+            let zfbpay999 = 'https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210505162535.jpg';
+            if (Math.random() > 0.8) {
+                document.querySelector("#paywx").innerHTML = '<img src="' + wxpay888 + '" alt="微信">'
+                document.querySelector("#payzfb").innerHTML = '<img src="' + zfbpay999 + '" alt="微信">'
+            } else {
+                document.querySelector("#paywx").innerHTML = '<img src="' + wxpay666 + '" alt="微信">'
+                document.querySelector("#payzfb").innerHTML = '<img src="' + zfbpay888 + '" alt="微信">'
+            }
+
+        }
+
+        ranpay();
+
+
+    </script>
 </body>
