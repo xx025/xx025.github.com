@@ -1,31 +1,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
     <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script>
-        $(function () {
-            $("#btnn").click(function () {
-                let phone = $("#phone").val() + "";
-                let dingdanhao = document.querySelector("#dingdanhao").value;
-                if (phone.length == 11) {
-                    if (dingdanhao.search('202105') != -1) {
-                        let id = (phone - 12999999997) * 2;
-                        let idcode = id;
-                        let avcode = (idcode / 2 + 202020200) * 2;
-                        document.querySelector("#acvcode").value = avcode;
-                        document.querySelector("#mmssg").innerHTML = "请截图保存激活码";
-                    } else {
-                        document.querySelector("#mmssg").innerHTML = "订单号不正确";
-                    }
-                } else {
-                    document.querySelector("#mmssg").innerHTML = "手机号不正确";
-                }
-
-            })
-        })
-
-    </script>
-
-
+    <script src="https://www.loefairy.top/u/js/jq23.js"></script>
     <style>
         table {
             margin: auto;
