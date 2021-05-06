@@ -1,16 +1,38 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(function () {
+            $("#btnn").click(function () {
+                let phone = $("#phone").val() + "";
+                let dingdanhao = document.querySelector("#dingdanhao").value;
+                if (phone.length == 11) {
+                    if (dingdanhao.search('202105') != -1) {
+                        let id = (phone - 12999999997) * 2;
+                        let idcode = id;
+                        let avcode = (idcode / 2 + 202020200) * 2;
+                        document.querySelector("#acvcode").value = avcode;
+                        document.querySelector("#mmssg").innerHTML = "请截图保存激活码";
+                    } else {
+                        document.querySelector("#mmssg").innerHTML = "订单号不正确";
+                    }
+                } else {
+                    document.querySelector("#mmssg").innerHTML = "手机号不正确";
+                }
+
+            })
+        })
+
+    </script>
+
 
     <style>
         table {
             margin: auto;
             width: auto;
             border: #2a6ea9 solid 2px;
-
-            font-size: 26px;
+            font-size: 18px;
             text-align: center;
-
-
         }
 
         img {
@@ -21,56 +43,58 @@
 </head>
 
 <body>
-
     <table>
         <tr>
-            <th>微信打赏</th>
             <th>支付宝打赏</th>
-            <th>加微信</th>
         </tr>
         <tr>
-            <td id="paywx"></td>
             <td id="payzfb"></td>
-            <td><img src="https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210503122055.jpg" alt="加微信"></td>
-        </tr>
-        <tr>
-            <td colspan="3">
-                <br>
-                <p style="color: red;">打赏之后加微信请直接发送“个人识别码”和“打赏订单截图（清楚显示支付时间）”</p>
-                <p>如有技术问题联系QQ963823596,回复不及时,一般问题处理点击<a
-                        href="https://www.loefairy.top/posts/essay/21422use-virtual-camera">如何配置</a></p>
-                <p style="width: 60%; margin: auto;
-                ">
+            <td>
+                <p style="color: red;">
+                    此项目已经不再维护，更不再提供技术支持，使用此项目（程序、脚本）所带来的一切问题，程序作者概不负责。现在脚本依然可以运行，同时提供激活服务，但是一旦您选择了打赏支付将不予退款</p>
+                <p>一般问题处理点击<a href="https://www.loefairy.top/posts/essay/21422use-virtual-camera">如何配置</a></p>
+                <p style="width: 60%; margin: auto; ">
                     倍速插件在点击上面的“如何配置”（提到一个github上的开源项目，搜索这个名字：videospeed，这个插件可以在chrome，Firefox浏览器应用商店下载，其他浏览器可能不支持），插件高级设置有定速设置
                 </p>
-                <p>
-                    <a href="http://loefairy.top/u/tiku.html">题库直达</a>
-                    <br>
-                    【激活码相同，建议使用小程序做题，电脑浏览器搜题，玄学原因电脑做题得分低小程序做题得分高】
-                </p>
-
-
+                <a href="http://loefairy.top/u/tiku.html">题库直达</a>
+                <br>
+                【激活码相同，建议使用小程序做题，电脑浏览器搜题，玄学原因电脑做题得分低小程序做题得分高】
             </td>
         </tr>
+        <tr>
+            <td>
+                <br>
+                <br>
+                <input type="text" name="" id="phone" placeholder="输入手机号">
+                <br>
+                <br>
+                <input type="text" id="dingdanhao" placeholder="输入支付宝订单号 ">
+                <br>
+                <br>
+                <button id="btnn">生成激活码</button>
+                <br>
+                <br>
+                激活码
+                <input type="text" id="acvcode" readonly="true">
+                <p style="color: red;" id="mmssg">等待</p>
+            </td>
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210506145108.jpg" alt="">
+            </td>
+        </tr>
+
     </table>
     <script>
         function ranpay() {
-            let wxpay666 = 'https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210505171501.png';
-            let wxpay888 = 'https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210505162156.png';
-            let zfbpay888 = 'https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210503122946.jpg';
-            let zfbpay999 = 'https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210505162535.jpg';
-            if (Math.random() > 0.8) {
-                document.querySelector("#paywx").innerHTML = '<img src="' + wxpay888 + '" alt="微信">'
-                document.querySelector("#payzfb").innerHTML = '<img src="' + zfbpay999 + '" alt="微信">'
+            let zfb58 = 'https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210506142618.png';
+            let zfb42 = 'https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210506142933.png';
+            if (Math.random() > 0.7) {
+                document.querySelector("#payzfb").innerHTML = '<img src="' + zfb42 + '" alt="微信">'
             } else {
-                document.querySelector("#paywx").innerHTML = '<img src="' + wxpay666 + '" alt="微信">'
-                document.querySelector("#payzfb").innerHTML = '<img src="' + zfbpay888 + '" alt="微信">'
+                document.querySelector("#payzfb").innerHTML = '<img src="' + zfb58 + '" alt="微信">'
             }
 
         }
-
         ranpay();
-
-
     </script>
 </body>
