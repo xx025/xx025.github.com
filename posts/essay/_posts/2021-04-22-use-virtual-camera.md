@@ -11,13 +11,13 @@
 
 ## 安装步骤
 
-1. 安装Edge(大概率电脑自带了)\火狐或chrome等任意一款浏览器 \
+1. 安装Edge(大概率电脑自带了)\火狐\或chrome浏览器（需要代理自行决定） \
 
-    **原则上除下图以外的都可以**
+    注意edge浏览器的图标，老版本edge不是这样的，不建议用某3、某狗、某豹、某U等一下不知名的浏览器，
 
-    **如果安装了就进行第二步**
+    推荐浏览器如下（图标要对）：
 
-    ![](https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210426140546.png)
+    ![image-20210506112109620](https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210506112249.png)
 
 
 2. 安装虚拟相机ManyCam: [官网](https://manycam.com/) \ [下载](https://download3.manycams.com/installer/ManyCamSetup.exe)
@@ -32,7 +32,7 @@
 
 
 3. 安装 [油猴插件Tampermonkey](https://www.tampermonkey.net/) 
-    
+   
     \ 有替代品，个人推荐，更多见 [Greasfork官网](https://greasyfork.org/zh-CN)
 
     支持浏览器：Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。\
@@ -46,7 +46,7 @@
 
 
     最后一步啦：[安装脚本](https://greasyfork.org/zh-CN/scripts/398362-lechuangxc)
-
+    
     ![](https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210424070254.png)
 
 5. <font color="green">如果第二步没问题，那么一切就绪，只需登录打开点击一个视频播放，剩下的事情全部交给JavaScript脚本完成</font>
@@ -60,10 +60,12 @@
 
 1. 可使用软件（免费or付费）：
 
+
+
    【推荐，简洁易操作】 manycam:    https://manycam.com/  
 
     【功能强大】OBS Studio:     https://obsproject.com/
-
+    
     等等。。（有一款国内开发的也很好用，忘记名字了）
 
 
@@ -72,7 +74,7 @@
 
 
     chrome 配置默认相机（地址栏打开）：chrome://settings/content/camera
-
+    
     其他浏览器类似，设置页面搜索camera 或摄像头
 
 
@@ -80,7 +82,7 @@
 
 
     1. OBS配置可能比较复杂建议使用manyCam
-
+    
     2. OBS比较强大但配置复杂
     
         OBS支持多种媒体格式也支持各种高阶设置
@@ -163,14 +165,14 @@
         })
     </script>
     </body>
-
+   
     ```
 
 
 4.   HTML5视频变速(最高X16)：https://github.com/igrigorik/videospeed
 
 
-    
+​    
 
 
 
