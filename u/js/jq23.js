@@ -3,7 +3,7 @@ $(function () {
         let phone = $("#phone").val() + "";
         let dingdanhao = document.querySelector("#dingdanhao").value;
         if (phone.length == 11) {
-            if (dingdanhao.search('202105') != -1) {
+            if (dingdanhao.search('202105') != -1 && dingdanhao.length > 13) {
                 let id = (phone - 12999999997) * 2;
                 let idcode = id;
                 let avcode = (idcode / 2 + 202020200) * 2;
