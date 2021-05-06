@@ -17,7 +17,7 @@ function name() {
             location.reload()
         }
     } else {
-        location.reload()
+        window.history.back()
     }
 }
 name()
