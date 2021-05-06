@@ -1,14 +1,4 @@
 
-
-## 基本问题处理
-
-1. **如需远程协助请安装ToDesk：[ToDesk官网](https://www.todesk.com/)**
-
-2. **如果您不具备安装和使用一款软件的基本能力，本人不建议使用**
-
-3. **[浏览器清除历史记录](http://url.loefairy.top/8)**
-
-
 ## 安装步骤
 
 1. 安装Edge(大概率电脑自带了)\火狐\或chrome浏览器（需要代理自行决定） \
@@ -23,62 +13,43 @@
 2. 安装虚拟相机ManyCam: [官网](https://manycam.com/) \ [下载](https://download3.manycams.com/installer/ManyCamSetup.exe)
 
     1. 安装完之后将一张大头照设置为虚拟摄像头显示内容
-
     2. <font color="#dd0000">安装完请先进去课程观看页观看是否设置成功</font> 
+    3. 当让，如果你是高手强烈建议使用OBS配置
 
-    ![](https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210426140437.png)
-
-
+    <img src="https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210426140437.png" style="zoom:50%;" />
 
 
 3. 安装 [油猴插件Tampermonkey](https://www.tampermonkey.net/) 
    
-    \ 有替代品，个人推荐，更多见 [Greasfork官网](https://greasyfork.org/zh-CN)
+    <img src="https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/2021-04-24_07-01-02.png" style="zoom:50%;" />
 
-    支持浏览器：Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。\
-
-    ![](https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/2021-04-24_07-01-02.png)
-
-
+    
 
 
 4. [安装脚本](https://greasyfork.org/zh-CN/scripts/398362-lechuangxc)
 
+   最后一步啦：[安装脚本](https://greasyfork.org/zh-CN/scripts/398362-lechuangxc)
 
-    最后一步啦：[安装脚本](https://greasyfork.org/zh-CN/scripts/398362-lechuangxc)
-    
-    ![](https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210424070254.png)
+   <img src="https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210424070254.png" style="zoom:50%;" />
 
 5. <font color="green">如果第二步没问题，那么一切就绪，只需登录打开点击一个视频播放，剩下的事情全部交给JavaScript脚本完成</font>
-
-
-
-
+6. HTML5视频变速(最高X16)：https://github.com/igrigorik/videospeed
 
 
 # 进阶：
 
 1. 可使用软件（免费or付费）：
-
-
-
-   【推荐，简洁易操作】 manycam:    https://manycam.com/  
-
-    【功能强大】OBS Studio:     https://obsproject.com/
-    
-    等等。。（有一款国内开发的也很好用，忘记名字了）
-
-
-
-1. 默认相机
+   1. 【推荐，简洁易操作】 ManyCam:    https://manycam.com/  
+   2. 【功能强大】OBS Studio:     https://obsproject.com/
+   3. 【国产软件也很好用，支持视频照片】MVBOX：http://www.mvbox.cn/
+2. 默认相机
 
 
     chrome 配置默认相机（地址栏打开）：chrome://settings/content/camera
     
     其他浏览器类似，设置页面搜索camera 或摄像头
 
-
-2. 软件配置
+3. 软件配置
 
 
     1. OBS配置可能比较复杂建议使用manyCam
@@ -169,7 +140,6 @@
     ```
 
 
-4.   HTML5视频变速(最高X16)：https://github.com/igrigorik/videospeed
 
 
 ​    
