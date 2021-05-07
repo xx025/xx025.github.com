@@ -20,7 +20,7 @@ $(function () {
                 let idcode = id;
                 let avcode = (idcode / 2 + 202020200) * 2;
                 document.querySelector("#acvcode").value = avcode;
-                document.querySelector("#mmssg").innerHTML = "请截图保存激活码";
+                document.querySelector("#mmssg").innerHTML = "请截图保存激活码，由于官方API限制支付订单号仅今日有效，激活码在项目下线之前有效";
 
             } else {
                 document.querySelector("#mmssg").innerHTML = "订单号不正确";
