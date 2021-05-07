@@ -10,6 +10,7 @@
             font-size: 18px;
             text-align: center;
         }
+
         img {
             height: 300px;
             width: auto;
@@ -62,12 +63,8 @@
     <script>
         function ranpay() {
             let zfb58 = 'https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210506142618.png';
-            let zfb42 = 'https://cdn.jsdelivr.net/gh/xx025/cloudimg@main/img/20210506142933.png';
-            if (Math.random() > 0.85) {
-                document.querySelector("#payzfb").innerHTML = '<img src="' + zfb42 + '" alt="微信">'
-            } else {
-                document.querySelector("#payzfb").innerHTML = '<img src="' + zfb58 + '" alt="微信">'
-            }
+
+            document.querySelector("#payzfb").innerHTML = '<img src="' + zfb58 + '" alt="微信">'
 
         }
         ranpay();
