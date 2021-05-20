@@ -17,7 +17,7 @@ permalink: /contents/
 {{ post.date | date: '%m-%d' }} &raquo; [{{ post.title }}]({{ post.url }}) <br/>
 {%- endfor -%}
 ---
-### 网络程序设计    
+<!-- ### 网络程序设计    
 {{''}}
 {%- for post in site.categories.sjwj -%}
 {{ post.date | date: '%m-%d' }} &raquo; [{{ post.title }}]({{ post.url }}) <br/> 
@@ -28,7 +28,8 @@ permalink: /contents/
 {%- for post in site.categories.sjwj -%}
 {{ post.date | date: '%m-%d' }} &raquo; [{{ post.title }}]({{ post.url }})  <br/>
 {%- endfor -%}
----
+--- 
+-->
 ### 统计
 <hr>
 - 文章: <span class="post_num">{{ site.posts | size }}</span> 篇
