@@ -28,7 +28,7 @@ card: /images/tcard.png
 # ---------------------下面信息视情况更改-------------------------
 
 # Permalink
-permalink: '/:categories/:short_year:i_month:i_day:title'
+permalink: '/:short_year:i_month:i_day/:title'
 
 # Format
 markdown: kramdown
