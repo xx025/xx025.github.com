@@ -46,12 +46,9 @@ nav:
   - {title: 主页, description: blog, url: '/'}
   - {title: 目录, description: contents, url: '/contents/'}  
   - {title: 碎言, description: syyd, url: '/syyd/'}    
-  - {title: 观影, description: 观影记录, url: '/movie-record/'} 
   - {title: 关于, description: about, url: '/about/'}    
         
 
-# Plugins
-plugins: [ jekyll-sitemap]
 
 # Increase jekyll build speed
 exclude: [Gemfile, Gemfile.lock, README.md]
