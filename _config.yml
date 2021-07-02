@@ -1,0 +1,60 @@
+# Basic
+title: loeFairy
+author: xx025
+url: https://loefairy.top
+timezone: Asia/Shanghai
+
+# SEO
+keywords: [日常学习,碎言一点, 读书笔记, 永远追求自由]
+description:   我等了你四个夏天，你没有信守承诺，你再也没有回来。风筝死了，我将它埋葬在这里，谁知道呢，也许有一天你会找到它。 ——《偷影子的人》
+
+# Social
+social:
+  twitter: pexels
+  weibo: rmrb
+  youtube: xx025
+  github: xx025
+
+
+# disqus
+# disqus_js: https://juby.disqus.com/embed.js
+# OpenGraph & TwitterCard
+card: /images/tcard.png
+
+# ---------------------上面信息改为自己的-------------------------
+# 
+#          jekyll文档参考: https://jekyllrb.com/docs/
+#
+# ---------------------下面信息视情况更改-------------------------
+
+# Permalink
+permalink: '/:short_year:i_month:i_day/:title'
+
+# Format
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Navigation buttons
+nav:
+  - {title: 主页, description: blog, url: '/'}
+  - {title: 目录, description: contents, url: '/contents/'}  
+  - {title: 碎言, description: syyd, url: '/syyd/'}    
+  - {title: 关于, description: about, url: '/about/'}    
+        
+
+
+# Increase jekyll build speed
+exclude: [Gemfile, Gemfile.lock, README.md]
+keep_files: [images]
+incrumental: true
+
+
+
+

@@ -1,0 +1,21 @@
+---
+layout: page
+title: 很遗憾，您访问的內容不存在！
+---
+
+<h3>很遗憾，您访问的內容不存在！</h3>
+<hr />
+
+<p><span id="jtim">3</span>秒后<a id="jlink" href="/index.html">跳转</a>至首页</p>
+<script>
+    let url = "/index.html"
+    let dj = 3;
+    setInterval(() => {
+        dj -= 1;
+        document.querySelector("#jtim").innerHTML = dj;
+        if (dj == 0) {
+            location = url;
+        }
+    }, 1000);
+
+</script>
